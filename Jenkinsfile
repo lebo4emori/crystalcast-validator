@@ -11,7 +11,7 @@ pipeline {
   }
 
   tools {
-    node 'NodeJS 11.6.0'
+    nodejs 'NodeJS 11.6.0'
   }
 
   stages {
