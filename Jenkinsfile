@@ -23,8 +23,10 @@ pipeline {
 
     stage('Test') {
         steps {
-           bat 'npm test'
-            junit(testResults: 'reports/junit.xml')
+            catchError(buildResult: 'SUCCESS', stageResult: 'FAILURE') {
+                bat 'npm test'
+           }
+           junit(testResults: 'reports/junit.xml')
         }
     }
 
