@@ -1,0 +1,36 @@
+{
+    "git.ignoreLimitWarning": true,
+    "jest.autoEnable": false,
+    "jest.runAllTestsFirst": false,
+    "jest.showCoverageOnLoad": false,
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "extensions.ignoreRecommendations": false,
+    "git.ignoreMissingGitWarning": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.run": "onSave",
+    // Set the default
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "diffEditor.renderSideBySide": false,
+    "prettier.trailingComma": "none",
+    "prettier.arrowParens": "avoid",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "prettier.singleQuote": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    // "files.autoSave": "afterDelay", - Don't like this option. 
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+}

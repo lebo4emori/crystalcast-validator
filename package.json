@@ -1,0 +1,89 @@
+{
+    "name": "@riskaware/crystalcast-validator",
+    "version": "1.1.6",
+    "description": "Watches provider folders for models and performs basic validation against a template. Results are emailed to prospective providers and the working group.",
+    "main": "index.js",
+    "scripts": {
+        "validator": "cross-env NODE_ENV=production CONFIG=config.json node --max-old-space-size=4096 validator/file-validator.js",
+        "validator-test": "cross-env NODE_ENV=production CONFIG=config-test.json node --max-old-space-size=4096 validator/file-validator.js",
+        "build": "next build",
+        "test": "cross-env jest --runInBand --testResultsProcessor='jest-junit' --forceExit --logHeapUsage --max-old-space-size=4096 ",
+        "coverage": "cross-env jest --runInBand --coverage",
+        "licences": "license-report --output=table"
+    },
+    "files": [
+        "validator/validator.js",
+        "common/file-parser.js"
+    ],
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "config": "^3.3.1",
+        "next": "^9.3.2",
+        "nodemailer": "6.4.6",
+        "log4js": "^6.1.2",
+        "mv": "^2.1.1",
+        "cp": "0.2.0",
+        "archiver": "^5.0.2",
+        "wait-on": "^5.2.0",
+        "rimraf": "^3.0.2",
+        "chokidar": "^3.4.3",
+        "csv-parser": "^3.0.0",
+        "xlsx-stream-reader": "^1.1.1"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "babel-eslint": "^10.1.0",
+        "babel-jest": "^25.2.4",
+        "babel-plugin-inline-react-svg": "^1.1.1",
+        "babel-plugin-root-import": "^6.5.0",
+        "cross-env": "^7.0.0",
+        "eslint": "^6.8.0",
+        "eslint-plugin-react": "^7.19.0",
+        "jest": "^25.2.4",
+        "jest-junit": "^10.0.0",
+        "license-report": "^3.0.0",
+        "moment": "2.25.3",
+        "rimraf": "^3.0.2"
+    },
+    "babel": {
+        "presets": [
+            "next/babel"
+        ],
+        "plugins": [
+            [
+                "babel-plugin-root-import"
+            ],
+            [
+                "inline-react-svg"
+            ]
+        ]
+    },
+    "jest": {
+        "reporters": [
+            "jest-junit"
+        ],
+        "testEnvironment": "node"
+    },
+    "jest-junit": {
+        "suiteName": "uk.gov.dstl.crystalcast.jest",
+        "outputDirectory": "./reports",
+        "outputName": "junit.xml",
+        "classNameTemplate": "uk.gov.dstl.crystalcast.validator.{classname}",
+        "titleTemplate": "{title}",
+        "ancestorSeparator": ".",
+        "suiteNameTemplate": "{filename}"
+    },
+    "directories": {
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/riskaware-ltd/crystalcast-validator.git"
+    },
+    "bugs": {
+        "url": "https://github.com/riskaware-ltd/crystalcast-validator/issues"
+    },
+    "homepage": "https://github.com/riskaware-ltd/crystalcast-validator#readme"
+}

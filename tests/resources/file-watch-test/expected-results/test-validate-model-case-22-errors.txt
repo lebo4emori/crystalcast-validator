@@ -1,0 +1,3 @@
+Validation complete. There are 0 missing fields, 0 unrecognised fields, 0 invalid date errors, 1 non-squential or duplicate date errors, 1 incorrect field values and 0 incorrect quantile errors.
+Data for metric hospital_inc|East of England|FullMCMCODE_w_Cases|8.1|2020-9-1|MTP R is missing AgeBand "All". AgeBand "All" represents the total of all the age bands and is mandatory.
+Value "MTP R" on row 194 for field "Scenario" is not valid.

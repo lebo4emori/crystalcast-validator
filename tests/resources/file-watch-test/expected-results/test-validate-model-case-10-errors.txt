@@ -1,0 +1,2 @@
+Validation complete. There are 3 missing fields, 0 unrecognised fields and 0 empty column(s) present. Please ensure that these field errors are corrected so that the data in this file can be validated.
+Missing fields: Day of Value, Month of Value, Year of Value.

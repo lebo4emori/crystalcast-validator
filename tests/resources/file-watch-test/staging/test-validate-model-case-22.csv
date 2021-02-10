@@ -1,0 +1,652 @@
+Group,Model,Scenario,ModelType,Version,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,AgeBand,Geography,ValueType,Value,Quantile 0.05,Quantile 0.10,Quantile 0.15,Quantile 0.20,Quantile 0.25,Quantile 0.30,Quantile 0.35,Quantile 0.40,Quantile 0.45,Quantile 0.50,Quantile 0.55,Quantile 0.60,Quantile 0.65,Quantile 0.70,Quantile 0.75,Quantile 0.80,Quantile 0.85,Quantile 0.90,Quantile 0.95
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,All,East of England,hospital_inc,0.00305807,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,All,East of England,hospital_inc,0.00318306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,All,East of England,hospital_inc,0.0033144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,All,East of England,hospital_inc,0.0034523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,All,East of England,hospital_inc,0.00359699,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,All,East of England,hospital_inc,0.00374869,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,All,East of England,hospital_inc,0.00390764,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,All,East of England,hospital_inc,0.00407409,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,All,East of England,hospital_inc,0.00424828,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,All,East of England,hospital_inc,0.00443047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,All,East of England,hospital_inc,0.00462094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,All,East of England,hospital_inc,0.00481997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,All,East of England,hospital_inc,0.00502852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,All,East of England,hospital_inc,0.0052533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,All,East of England,hospital_inc,0.00548783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,All,East of England,hospital_inc,0.00573248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,All,East of England,hospital_inc,0.00598758,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,All,East of England,hospital_inc,0.00625349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,All,East of England,hospital_inc,0.00653058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,All,East of England,hospital_inc,0.00681924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,All,East of England,hospital_inc,0.00711983,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,All,East of England,hospital_inc,0.00743276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,All,East of England,hospital_inc,0.00775841,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,All,East of England,hospital_inc,0.00809719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,All,East of England,hospital_inc,0.00844951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,All,East of England,hospital_inc,0.00881576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,All,East of England,hospital_inc,0.00919637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,All,East of England,hospital_inc,0.00959175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,All,East of England,hospital_inc,0.0100023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,All,East of England,hospital_inc,0.0104284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,All,East of England,hospital_inc,0.0109052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,0-4,East of England,hospital_inc,0.380908,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,0-4,East of England,hospital_inc,0.39963,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,0-4,East of England,hospital_inc,0.417729,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,0-4,East of England,hospital_inc,0.436632,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,0-4,East of England,hospital_inc,0.456369,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,0-4,East of England,hospital_inc,0.476971,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,0-4,East of England,hospital_inc,0.498468,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,0-4,East of England,hospital_inc,0.520891,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,0-4,East of England,hospital_inc,0.544275,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,0-4,East of England,hospital_inc,0.568651,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,0-4,East of England,hospital_inc,0.594056,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,0-4,East of England,hospital_inc,0.620525,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,0-4,East of England,hospital_inc,0.648094,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,0-4,East of England,hospital_inc,0.676799,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,0-4,East of England,hospital_inc,0.706679,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,0-4,East of England,hospital_inc,0.737773,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,0-4,East of England,hospital_inc,0.770118,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,0-4,East of England,hospital_inc,0.803754,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,0-4,East of England,hospital_inc,0.838721,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,0-4,East of England,hospital_inc,0.875059,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,0-4,East of England,hospital_inc,0.912807,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,0-4,East of England,hospital_inc,0.952005,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,0-4,East of England,hospital_inc,0.992694,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,0-4,East of England,hospital_inc,1.03491,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,0-4,East of England,hospital_inc,1.0787,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,0-4,East of England,hospital_inc,1.12409,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,0-4,East of England,hospital_inc,1.17113,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,0-4,East of England,hospital_inc,1.21985,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,0-4,East of England,hospital_inc,1.27028,0,0,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,0-4,East of England,hospital_inc,1.32246,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,0-4,East of England,hospital_inc,1.37643,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,4,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,15-24,East of England,hospital_inc,0.379019,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,15-24,East of England,hospital_inc,0.396613,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,15-24,East of England,hospital_inc,0.414938,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,15-24,East of England,hospital_inc,0.434019,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,15-24,East of England,hospital_inc,0.453885,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,15-24,East of England,hospital_inc,0.474565,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,15-24,East of England,hospital_inc,0.49609,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,15-24,East of England,hospital_inc,0.518492,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,15-24,East of England,hospital_inc,0.542056,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,15-24,East of England,hospital_inc,0.569706,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,15-24,East of England,hospital_inc,0.598583,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,15-24,East of England,hospital_inc,0.628727,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,15-24,East of England,hospital_inc,0.65958,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,15-24,East of England,hospital_inc,0.688605,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,15-24,East of England,hospital_inc,0.718749,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,15-24,East of England,hospital_inc,0.750044,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,15-24,East of England,hospital_inc,0.782522,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,15-24,East of England,hospital_inc,0.816212,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,15-24,East of England,hospital_inc,0.851145,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,15-24,East of England,hospital_inc,0.88735,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,15-24,East of England,hospital_inc,0.924855,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,15-24,East of England,hospital_inc,0.963687,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,15-24,East of England,hospital_inc,1.00387,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,15-24,East of England,hospital_inc,1.04543,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,15-24,East of England,hospital_inc,1.08839,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,15-24,East of England,hospital_inc,1.13276,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,15-24,East of England,hospital_inc,1.17858,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3,4,4
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,15-24,East of England,hospital_inc,1.22584,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,15-24,East of England,hospital_inc,1.27456,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,15-24,East of England,hospital_inc,1.32475,0,0,0,0,0,1,1,1,1,1,1,2,2,2,3,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,15-24,East of England,hospital_inc,1.37641,0,0,0,0,1,1,1,1,1,1,2,2,2,2,3,3,3,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,25-44,East of England,hospital_inc,1.91221,0,0,0,1,1,1,1,1,2,2,2,2,2,3,3,3,4,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,25-44,East of England,hospital_inc,2.01119,0,0,0,1,1,1,1,1,2,2,2,2,3,3,3,3,4,4,5
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,25-44,East of England,hospital_inc,2.11522,0,0,1,1,1,1,1,2,2,2,2,2,3,3,3,4,4,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,25-44,East of England,hospital_inc,2.22451,0,0,1,1,1,1,1,2,2,2,2,3,3,3,3,4,4,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,25-44,East of England,hospital_inc,2.33926,0,0,1,1,1,1,2,2,2,2,2,3,3,3,4,4,4,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,25-44,East of England,hospital_inc,2.45968,0,0,1,1,1,1,2,2,2,2,3,3,3,3,4,4,5,5,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,25-44,East of England,hospital_inc,2.58599,0,0,1,1,1,2,2,2,2,2,3,3,3,4,4,4,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,25-44,East of England,hospital_inc,2.7184,0,1,1,1,1,2,2,2,2,3,3,3,3,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,25-44,East of England,hospital_inc,2.85715,0,1,1,1,1,2,2,2,2,3,3,3,4,4,4,5,6,6,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,25-44,East of England,hospital_inc,3.00244,0,1,1,1,2,2,2,2,3,3,3,3,4,4,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,25-44,East of England,hospital_inc,3.15452,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,25-44,East of England,hospital_inc,3.31361,0,1,1,1,2,2,2,3,3,3,3,4,4,5,5,6,6,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,25-44,East of England,hospital_inc,3.47995,0,1,1,2,2,2,2,3,3,3,4,4,4,5,5,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,25-44,East of England,hospital_inc,3.64932,0,1,1,2,2,2,3,3,3,3,4,4,5,5,6,6,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,25-44,East of England,hospital_inc,3.80847,0,1,1,2,2,2,3,3,3,4,4,4,5,5,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,25-44,East of England,hospital_inc,3.97391,1,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,25-44,East of England,hospital_inc,4.14583,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,25-44,East of England,hospital_inc,4.32443,1,1,2,2,2,3,3,3,4,4,5,5,6,6,7,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,25-44,East of England,hospital_inc,4.50988,1,1,2,2,3,3,3,4,4,4,5,5,6,6,7,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,25-44,East of England,hospital_inc,4.70237,1,1,2,2,3,3,4,4,4,5,5,6,6,7,8,8,9,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,25-44,East of England,hospital_inc,4.9021,1,2,2,2,3,3,4,4,4,5,5,6,7,7,8,9,10,11,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,25-44,East of England,hospital_inc,5.10925,1,2,2,3,3,3,4,4,5,5,6,6,7,7,8,9,10,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,25-44,East of England,hospital_inc,5.32398,1,2,2,3,3,4,4,4,5,5,6,7,7,8,9,10,11,12,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,25-44,East of England,hospital_inc,5.54649,1,2,2,3,3,4,4,5,5,6,6,7,7,8,9,10,11,13,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,25-44,East of England,hospital_inc,5.77694,1,2,2,3,4,4,4,5,5,6,7,7,8,9,10,11,12,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,25-44,East of England,hospital_inc,6.01549,1,2,3,3,4,4,5,5,6,6,7,7,8,9,10,11,13,14,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,25-44,East of England,hospital_inc,6.26229,1,2,3,3,4,4,5,5,6,7,7,8,9,10,10,12,13,15,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,25-44,East of England,hospital_inc,6.51751,2,2,3,4,4,5,5,6,6,7,7,8,9,10,11,12,14,16,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,25-44,East of England,hospital_inc,6.78126,2,2,3,4,4,5,5,6,6,7,8,9,9,10,11,13,14,16,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,25-44,East of England,hospital_inc,7.05368,2,3,3,4,4,5,6,6,7,7,8,9,10,11,12,13,15,17,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,25-44,East of England,hospital_inc,7.33487,2,3,3,4,5,5,6,6,7,8,8,9,10,11,13,14,16,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,45-64,East of England,hospital_inc,6.2655,2,2,3,4,4,4,5,5,6,6,7,7,8,8,9,9,10,12,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,45-64,East of England,hospital_inc,6.54783,2,3,3,4,4,5,5,6,6,6,7,7,8,9,9,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,45-64,East of England,hospital_inc,6.87256,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,45-64,East of England,hospital_inc,7.22273,2,3,4,4,5,5,6,6,7,7,8,8,9,10,10,11,12,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,45-64,East of England,hospital_inc,7.59084,2,3,4,4,5,5,6,6,7,8,8,9,9,10,11,12,13,14,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,45-64,East of England,hospital_inc,7.9776,2,3,4,5,5,6,6,7,7,8,9,9,10,11,11,12,13,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,45-64,East of England,hospital_inc,8.38376,2,3,4,5,5,6,7,7,8,8,9,10,10,11,12,13,14,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,45-64,East of England,hospital_inc,8.81008,3,4,4,5,6,6,7,8,8,9,9,10,11,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,45-64,East of England,hospital_inc,9.25734,3,4,5,5,6,7,7,8,9,9,10,11,11,12,13,14,16,18,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,45-64,East of England,hospital_inc,9.72633,3,4,5,6,6,7,8,8,9,10,10,11,12,13,14,15,17,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,45-64,East of England,hospital_inc,10.2179,3,4,5,6,7,7,8,9,9,10,11,12,13,14,15,16,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,45-64,East of England,hospital_inc,10.7327,3,5,6,6,7,8,8,9,10,11,11,12,13,14,15,17,18,20,24
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,45-64,East of England,hospital_inc,11.2718,4,5,6,7,7,8,9,10,10,11,12,13,14,15,16,18,19,22,25
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,45-64,East of England,hospital_inc,11.8359,4,5,6,7,8,9,9,10,11,12,13,14,15,16,17,19,21,23,27
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,45-64,East of England,hospital_inc,12.4109,4,5,6,7,8,9,10,11,12,12,13,14,16,17,18,20,22,24,28
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,45-64,East of England,hospital_inc,12.9503,4,6,7,8,9,9,10,11,12,13,14,15,16,18,19,21,23,26,30
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,45-64,East of England,hospital_inc,13.5114,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,27,31
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,45-64,East of England,hospital_inc,14.0946,5,6,7,9,9,10,11,12,13,14,15,17,18,19,21,23,25,29,33
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,45-64,East of England,hospital_inc,14.7007,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,27,30,35
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,45-64,East of England,hospital_inc,15.3304,5,7,8,9,10,11,12,13,15,16,17,18,20,22,23,26,28,32,37
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,45-64,East of England,hospital_inc,15.9843,6,7,9,10,11,12,13,14,15,17,18,19,21,23,25,27,30,33,38
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,45-64,East of England,hospital_inc,16.6631,6,8,9,10,11,12,14,15,16,17,19,20,22,24,26,28,31,35,40
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,45-64,East of England,hospital_inc,17.3674,6,8,10,11,12,13,14,15,17,18,20,21,23,25,27,30,33,37,43
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,45-64,East of England,hospital_inc,18.0978,6,8,10,11,12,14,15,16,17,19,21,22,24,27,29,32,35,39,45
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,45-64,East of England,hospital_inc,18.855,7,9,10,12,13,14,16,17,18,20,21,23,25,28,30,33,37,41,47
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,45-64,East of England,hospital_inc,19.6397,7,9,11,12,14,15,16,17,19,21,22,24,27,29,32,35,39,43,49
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,45-64,East of England,hospital_inc,20.4524,8,10,11,13,14,16,17,18,20,22,23,25,28,31,34,37,41,45,52
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,45-64,East of England,hospital_inc,21.2936,8,10,12,13,15,16,18,19,21,22,25,27,29,32,35,39,43,47,55
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,45-64,East of England,hospital_inc,22.164,8,10,12,14,15,17,18,20,22,23,25,28,31,34,37,41,45,50,57
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,45-64,East of England,hospital_inc,23.064,9,11,13,14,16,18,19,21,23,25,27,29,32,35,39,43,47,52,60
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,45-64,East of England,hospital_inc,23.9941,9,11,13,15,17,18,20,22,23,25,28,30,34,37,41,45,49,55,63
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,65-74,East of England,hospital_inc,4.68853,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,65-74,East of England,hospital_inc,4.92527,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,65-74,East of England,hospital_inc,5.13979,1,2,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,65-74,East of England,hospital_inc,5.36403,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,65-74,East of England,hospital_inc,5.59837,1,2,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,65-74,East of England,hospital_inc,5.8432,1,2,2,3,3,4,4,4,5,5,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,65-74,East of England,hospital_inc,6.09892,1,2,3,3,3,4,4,5,5,6,6,6,7,8,8,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,65-74,East of England,hospital_inc,6.36596,1,2,3,3,4,4,5,5,5,6,6,7,7,8,9,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,65-74,East of England,hospital_inc,6.64473,1,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,65-74,East of England,hospital_inc,6.93568,2,2,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,65-74,East of England,hospital_inc,7.23925,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,65-74,East of England,hospital_inc,7.55592,2,3,3,4,5,5,6,6,7,7,8,8,9,10,11,11,12,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,65-74,East of England,hospital_inc,7.88614,2,3,4,4,5,5,6,6,7,8,8,9,9,10,11,12,13,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,65-74,East of England,hospital_inc,8.23043,2,3,4,4,5,6,6,7,7,8,8,9,10,11,12,13,14,15,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,65-74,East of England,hospital_inc,8.58926,2,3,4,5,5,6,6,7,8,8,9,10,10,11,12,13,15,16,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,65-74,East of England,hospital_inc,8.96314,2,3,4,5,6,6,7,7,8,9,9,10,11,12,13,14,15,17,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,65-74,East of England,hospital_inc,9.3526,3,4,5,5,6,7,7,8,9,9,10,11,12,12,13,15,16,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,65-74,East of England,hospital_inc,9.75816,3,4,5,5,6,7,8,8,9,10,10,11,12,13,14,15,17,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,65-74,East of England,hospital_inc,10.1804,3,4,5,6,7,7,8,9,9,10,11,12,13,14,15,16,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,65-74,East of England,hospital_inc,10.6672,3,4,5,6,7,8,8,9,10,11,12,12,13,15,16,17,19,21,25
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,65-74,East of England,hospital_inc,11.1913,3,4,5,6,7,8,9,10,10,11,12,13,14,15,16,18,20,22,26
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,65-74,East of England,hospital_inc,11.7388,4,5,6,7,8,8,9,10,11,12,13,14,15,16,17,19,21,23,27
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,65-74,East of England,hospital_inc,12.3106,4,5,6,7,8,9,10,11,11,12,13,14,16,17,18,20,22,24,28
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,65-74,East of England,hospital_inc,12.9072,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21,23,26,30
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,65-74,East of England,hospital_inc,13.4621,4,6,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,27,32
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,65-74,East of England,hospital_inc,14.0271,4,6,7,8,9,10,11,12,13,14,15,17,18,20,21,23,26,29,33
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,65-74,East of England,hospital_inc,14.6127,5,6,7,9,10,11,12,13,14,15,16,18,19,21,23,25,27,30,35
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,65-74,East of England,hospital_inc,15.2193,5,6,8,9,10,11,12,13,14,16,17,18,20,22,24,26,29,32,36
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,65-74,East of England,hospital_inc,15.8474,5,7,8,9,11,12,13,14,15,16,18,19,21,23,25,27,30,33,39
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,65-74,East of England,hospital_inc,16.4974,5,7,9,10,11,12,13,14,16,17,19,20,22,24,26,29,31,35,40
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,65-74,East of England,hospital_inc,17.1696,6,7,9,10,11,13,14,15,16,18,19,21,23,25,27,30,33,37,42
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,75+,East of England,hospital_inc,6.67038,2,3,3,4,4,5,5,6,6,7,7,8,8,9,10,10,11,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,75+,East of England,hospital_inc,6.98154,2,3,3,4,4,5,5,6,6,7,7,8,9,9,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,75+,East of England,hospital_inc,7.30912,2,3,4,4,5,5,6,6,7,7,8,8,9,10,10,11,12,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,75+,East of England,hospital_inc,7.68073,2,3,4,4,5,5,6,7,7,8,8,9,9,10,11,12,13,14,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,75+,East of England,hospital_inc,8.13718,2,3,4,5,5,6,6,7,7,8,9,9,10,11,11,12,14,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,75+,East of England,hospital_inc,8.62431,2,3,4,5,5,6,7,7,8,8,9,10,10,11,12,13,14,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,75+,East of England,hospital_inc,9.14398,3,4,4,5,6,6,7,8,8,9,10,10,11,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP R,Multiple,8.1,1,9,2020,8,10,2020,75+,East of England,hospital_inc,9.69814,3,4,5,5,6,7,7,8,9,9,10,11,12,12,13,14,16,17,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,75+,East of England,hospital_inc,10.2888,3,4,5,6,6,7,8,8,9,10,10,11,12,13,14,15,16,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,75+,East of England,hospital_inc,10.9181,3,4,5,6,7,7,8,9,10,10,11,12,13,14,15,16,17,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,75+,East of England,hospital_inc,11.5882,3,4,5,6,7,8,9,9,10,11,12,12,13,14,15,17,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,75+,East of England,hospital_inc,12.1592,3,5,6,7,7,8,9,10,11,11,12,13,14,15,16,17,19,21,24
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,75+,East of England,hospital_inc,12.6775,4,5,6,7,8,9,9,10,11,12,13,14,15,16,17,18,20,22,26
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,75+,East of England,hospital_inc,13.2179,4,5,6,7,8,9,10,11,12,12,13,14,15,16,18,19,21,24,27
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,75+,East of England,hospital_inc,13.9286,4,5,7,8,9,10,10,11,12,13,14,15,16,17,19,20,22,25,29
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,75+,East of England,hospital_inc,14.7066,4,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,26,30
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,75+,East of England,hospital_inc,15.3102,5,6,7,8,9,11,11,12,13,14,15,17,18,19,21,22,25,27,31
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,75+,East of England,hospital_inc,15.9374,5,6,8,9,10,11,12,13,14,15,16,18,19,20,22,24,26,29,33
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,75+,East of England,hospital_inc,16.589,5,7,8,9,10,12,13,14,15,16,17,18,20,21,23,25,27,30,35
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,75+,East of England,hospital_inc,17.2659,5,7,9,10,11,12,13,14,16,17,18,19,21,22,24,26,29,32,36
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,75+,East of England,hospital_inc,17.9688,6,7,9,10,11,13,14,15,16,18,19,20,22,23,25,27,30,33,38
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,75+,East of England,hospital_inc,18.6986,6,8,9,11,12,13,15,16,17,18,20,21,23,24,27,29,32,35,41
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,75+,East of England,hospital_inc,19.4561,6,8,10,11,13,14,15,17,18,19,21,22,24,26,28,30,33,37,43
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,75+,East of England,hospital_inc,20.2422,6,9,10,12,13,15,16,17,19,20,22,24,25,27,29,32,35,39,45
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,75+,East of England,hospital_inc,21.0577,7,9,11,12,14,15,17,18,20,21,23,24,26,28,31,34,37,41,47
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,75+,East of England,hospital_inc,21.9035,7,9,11,13,15,16,18,19,21,22,24,26,28,30,33,35,39,43,49
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,75+,East of England,hospital_inc,22.7804,7,10,12,14,15,17,19,20,22,23,25,27,29,31,34,37,41,46,52
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,75+,East of England,hospital_inc,23.6893,8,10,12,14,16,18,19,21,23,24,26,28,30,33,36,39,43,48,55
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,75+,East of England,hospital_inc,24.7781,8,11,13,15,17,18,20,22,24,25,27,29,32,34,38,41,46,51,58
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,75+,East of England,hospital_inc,25.933,8,11,13,15,17,19,21,23,25,27,29,31,33,36,40,44,48,54,61
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,75+,East of England,hospital_inc,27.1339,9,12,14,16,18,20,22,24,26,28,30,32,35,38,41,46,51,56,63
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,0-4,England,hospital_inc,3.53323,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,0-4,England,hospital_inc,3.7052,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,0-4,England,hospital_inc,3.88737,1,1,2,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,0-4,England,hospital_inc,4.07998,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,0-4,England,hospital_inc,4.2845,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,0-4,England,hospital_inc,4.481,1,1,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,0-4,England,hospital_inc,4.6939,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,0-4,England,hospital_inc,4.91495,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,0-4,England,hospital_inc,5.13794,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,0-4,England,hospital_inc,5.38031,1,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,0-4,England,hospital_inc,5.64775,1,2,3,3,3,4,4,5,5,5,6,6,7,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,0-4,England,hospital_inc,5.93638,1,2,3,3,4,4,4,5,5,6,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,0-4,England,hospital_inc,6.22387,2,2,3,3,4,4,5,5,5,6,6,7,7,8,8,9,10,11,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,0-4,England,hospital_inc,6.51953,2,3,3,4,4,4,5,5,6,6,7,7,7,8,9,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,0-4,England,hospital_inc,6.82987,2,3,3,4,4,5,5,6,6,6,7,7,8,8,9,10,11,12,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,0-4,England,hospital_inc,7.17613,2,3,4,4,5,5,5,6,6,7,7,8,8,9,9,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,0-4,England,hospital_inc,7.54481,2,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,0-4,England,hospital_inc,7.89829,2,3,4,5,5,6,6,7,7,7,8,9,9,10,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,0-4,England,hospital_inc,8.29278,2,3,4,5,5,6,6,7,7,8,8,9,10,10,11,12,13,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,0-4,England,hospital_inc,8.71534,3,4,4,5,6,6,7,7,8,8,9,9,10,11,11,12,13,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,0-4,England,hospital_inc,9.16755,3,4,5,5,6,7,7,8,8,9,9,10,11,11,12,13,14,15,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,0-4,England,hospital_inc,9.65762,3,4,5,6,6,7,7,8,9,9,10,10,11,12,13,13,15,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,0-4,England,hospital_inc,10.1544,3,4,5,6,7,7,8,8,9,10,10,11,12,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,0-4,England,hospital_inc,10.6997,3,5,6,6,7,8,8,9,10,10,11,11,12,13,14,15,16,18,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,0-4,England,hospital_inc,11.2713,4,5,6,7,7,8,9,9,10,11,11,12,13,14,14,16,17,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,0-4,England,hospital_inc,11.8678,4,5,6,7,8,8,9,10,10,11,12,13,13,14,15,16,18,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,0-4,England,hospital_inc,12.4874,4,5,6,7,8,9,10,10,11,12,12,13,14,15,16,17,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,0-4,England,hospital_inc,13.1432,4,6,7,8,8,9,10,11,12,12,13,14,15,16,17,18,19,21,24
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,0-4,England,hospital_inc,13.8149,4,6,7,8,9,10,10,11,12,13,14,14,15,16,17,19,20,22,25
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,0-4,England,hospital_inc,14.5258,5,6,7,8,9,10,11,12,13,13,14,15,16,17,18,19,21,23,26
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,0-4,England,hospital_inc,15.2612,5,7,8,9,10,11,11,12,13,14,15,16,17,18,19,20,22,24,27
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,15-24,England,hospital_inc,3.81807,1,1,1,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,15-24,England,hospital_inc,4.01562,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,15-24,England,hospital_inc,4.22822,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,15-24,England,hospital_inc,4.45449,1,1,2,2,3,3,3,4,4,4,4,5,5,6,6,7,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,15-24,England,hospital_inc,4.68553,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,15-24,England,hospital_inc,4.9487,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,15-24,England,hospital_inc,5.22028,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,15-24,England,hospital_inc,5.51518,1,2,2,3,3,4,4,4,5,5,6,6,6,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,15-24,England,hospital_inc,5.82204,1,2,3,3,3,4,4,5,5,5,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,15-24,England,hospital_inc,6.15384,1,2,3,3,4,4,4,5,5,6,6,7,7,7,8,9,10,11,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,15-24,England,hospital_inc,6.51042,2,2,3,3,4,4,5,5,6,6,6,7,7,8,9,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,15-24,England,hospital_inc,6.85296,2,2,3,4,4,5,5,5,6,6,7,7,8,8,9,10,11,12,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,15-24,England,hospital_inc,7.21198,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,15-24,England,hospital_inc,7.58798,2,3,3,4,5,5,6,6,6,7,7,8,9,9,10,11,11,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,15-24,England,hospital_inc,7.98425,2,3,4,4,5,5,6,6,7,7,8,8,9,10,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,15-24,England,hospital_inc,8.39589,2,3,4,5,5,6,6,7,7,8,8,9,9,10,11,12,13,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,15-24,England,hospital_inc,8.82587,2,3,4,5,5,6,7,7,8,8,9,9,10,11,11,12,13,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,15-24,England,hospital_inc,9.27458,3,4,4,5,6,6,7,7,8,8,9,10,10,11,12,13,14,15,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,15-24,England,hospital_inc,9.75189,3,4,5,5,6,7,7,8,8,9,10,10,11,12,12,13,15,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,15-24,England,hospital_inc,10.2836,3,4,5,6,6,7,8,8,9,9,10,11,11,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,15-24,England,hospital_inc,10.7974,3,4,5,6,7,7,8,9,9,10,11,11,12,13,14,15,16,18,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,15-24,England,hospital_inc,11.3273,3,4,5,6,7,8,8,9,10,10,11,12,13,13,14,15,17,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,15-24,England,hospital_inc,11.8771,3,5,6,7,7,8,9,9,10,11,12,12,13,14,15,16,18,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,15-24,England,hospital_inc,12.4788,4,5,6,7,8,8,9,10,11,11,12,13,14,15,16,17,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,15-24,England,hospital_inc,13.1104,4,5,6,7,8,9,10,10,11,12,13,14,15,16,17,18,19,21,24
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,15-24,England,hospital_inc,13.7369,4,5,7,8,8,9,10,11,12,13,13,14,15,16,17,19,20,22,25
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,15-24,England,hospital_inc,14.3705,4,6,7,8,9,10,11,11,12,13,14,15,16,17,18,19,21,23,26
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,15-24,England,hospital_inc,15.0225,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,27
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,15-24,England,hospital_inc,15.6922,5,6,7,9,10,11,12,12,13,14,15,16,17,18,20,21,23,25,28
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,15-24,England,hospital_inc,16.3785,5,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,24,26,29
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,15-24,England,hospital_inc,17.0872,5,7,8,9,10,12,13,14,15,16,17,18,19,20,21,23,24,27,30
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,25-44,England,hospital_inc,16.9961,8,10,11,12,13,14,15,15,16,17,18,18,19,20,21,22,24,26,28
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,25-44,England,hospital_inc,17.8108,9,10,12,13,13,14,15,16,17,18,18,19,20,21,22,23,25,27,30
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,25-44,England,hospital_inc,18.5982,9,11,12,13,14,15,16,17,18,18,19,20,21,22,23,24,26,28,31
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,25-44,England,hospital_inc,19.49,10,12,13,14,15,16,17,18,18,19,20,21,22,23,24,26,27,29,32
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,25-44,England,hospital_inc,20.3771,10,12,14,15,16,17,18,18,19,20,21,22,23,24,25,27,28,30,34
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,25-44,England,hospital_inc,21.2719,11,13,14,15,16,17,18,19,20,21,22,23,24,25,27,28,30,32,35
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,25-44,England,hospital_inc,22.2438,11,13,15,16,17,18,19,20,21,22,23,24,25,26,28,29,31,34,37
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,25-44,England,hospital_inc,23.334,12,14,16,17,18,19,20,21,22,23,24,25,27,28,29,31,33,35,39
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,25-44,England,hospital_inc,24.4506,12,15,16,18,19,20,21,22,23,24,25,27,28,29,31,32,34,37,41
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,25-44,England,hospital_inc,25.6898,13,16,17,19,20,21,22,23,25,26,27,28,29,31,32,34,36,39,42
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,25-44,England,hospital_inc,26.9857,14,16,18,20,21,22,23,25,26,27,28,29,31,32,34,35,38,40,45
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,25-44,England,hospital_inc,28.2963,14,17,19,20,22,23,25,26,27,28,29,31,32,34,35,37,40,42,47
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,25-44,England,hospital_inc,29.6683,15,18,20,22,23,24,26,27,28,30,31,32,34,35,37,39,41,45,49
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,25-44,England,hospital_inc,31.12,16,19,21,23,24,26,27,28,30,31,32,34,35,37,39,41,43,47,52
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,25-44,England,hospital_inc,32.6078,17,20,22,24,25,27,28,30,31,33,34,35,37,39,41,43,46,49,54
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,25-44,England,hospital_inc,34.0989,18,21,23,25,26,28,30,31,33,34,36,37,39,41,43,45,48,52,57
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,25-44,England,hospital_inc,35.8506,18,22,24,26,28,30,31,33,34,36,37,39,41,43,45,47,50,54,59
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,25-44,England,hospital_inc,37.6006,20,23,25,27,29,31,33,34,36,37,39,41,43,45,47,50,53,57,62
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,25-44,England,hospital_inc,39.4844,20,24,26,29,31,33,34,36,38,40,41,43,45,47,50,52,55,60,66
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,25-44,England,hospital_inc,41.4819,21,25,28,30,32,34,36,38,39,41,43,45,47,50,52,55,58,63,69
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,25-44,England,hospital_inc,43.6208,22,26,29,32,34,36,38,39,41,43,45,48,50,52,55,57,61,65,72
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,25-44,England,hospital_inc,45.6017,23,27,30,33,35,37,39,41,43,46,48,50,52,55,57,60,64,69,75
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,25-44,England,hospital_inc,47.8955,24,29,32,34,37,39,41,43,45,48,50,52,54,57,60,63,67,72,79
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,25-44,England,hospital_inc,50.3482,25,30,33,36,39,41,43,45,48,50,52,54,57,60,63,66,70,75,83
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,25-44,England,hospital_inc,52.9315,27,31,35,38,40,43,45,48,50,52,55,57,60,63,66,69,74,79,87
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,25-44,England,hospital_inc,55.6102,28,32,36,39,42,45,47,50,52,55,57,60,63,66,69,73,78,83,92
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,25-44,England,hospital_inc,58.3457,29,34,38,41,44,47,49,52,55,57,60,63,66,69,73,76,81,87,95
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,25-44,England,hospital_inc,61.273,30,35,39,43,46,49,52,54,57,60,63,66,69,72,76,80,85,91,100
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,25-44,England,hospital_inc,64.2003,31,37,41,45,48,51,54,57,60,63,66,69,72,76,80,84,89,96,104
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,25-44,England,hospital_inc,67.1951,33,38,43,47,50,53,56,59,62,65,69,72,75,79,83,88,93,99,109
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,25-44,England,hospital_inc,70.416,34,40,44,48,52,55,59,62,65,68,71,75,78,82,87,91,97,104,114
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,45-64,England,hospital_inc,50.8384,31,35,38,40,42,43,45,47,48,50,51,53,55,57,59,62,65,69,75
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,45-64,England,hospital_inc,53.0185,33,36,39,41,43,45,47,49,50,52,54,56,58,60,62,65,68,72,79
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,45-64,England,hospital_inc,55.2892,34,38,41,43,45,47,49,51,53,55,57,58,60,63,65,68,71,76,82
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,45-64,England,hospital_inc,57.8231,36,40,43,46,48,50,52,53,55,57,59,61,63,66,68,71,75,79,87
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,45-64,England,hospital_inc,60.4199,38,42,45,48,50,52,54,56,58,60,62,64,67,69,72,75,79,84,91
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,45-64,England,hospital_inc,63.1887,39,44,47,50,52,55,57,59,61,63,65,67,70,72,75,79,83,88,96
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,45-64,England,hospital_inc,65.9984,41,46,49,52,55,57,59,62,64,66,68,70,73,76,79,83,87,92,100
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,45-64,England,hospital_inc,68.9857,44,49,52,55,58,60,62,65,67,69,72,74,77,80,83,87,92,97,106
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,45-64,England,hospital_inc,72.1461,46,51,54,58,60,63,65,68,70,73,75,78,81,84,87,91,96,102,111
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,45-64,England,hospital_inc,75.4617,48,53,57,60,63,66,68,71,74,76,79,82,85,88,92,96,102,108,118
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,45-64,England,hospital_inc,79.3018,50,56,60,63,66,69,72,74,77,80,83,86,89,93,97,101,107,113,123
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,45-64,England,hospital_inc,83.4332,52,58,62,66,69,72,75,78,81,84,87,90,94,98,102,107,112,119,130
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,45-64,England,hospital_inc,87.7167,55,61,65,69,73,76,79,82,85,88,92,95,98,102,107,112,118,126,136
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,45-64,England,hospital_inc,91.862,57,63,68,72,76,79,83,86,89,92,96,99,103,108,113,118,124,132,144
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,45-64,England,hospital_inc,96.2312,60,67,72,76,80,84,87,91,94,97,101,105,109,113,119,124,131,139,151
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,45-64,England,hospital_inc,101.023,63,70,75,80,84,87,91,95,99,102,106,110,115,119,125,131,138,147,160
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,45-64,England,hospital_inc,105.835,66,73,79,83,88,91,95,99,103,107,111,115,120,125,131,138,146,156,169
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,45-64,England,hospital_inc,111.031,68,77,82,87,92,96,100,104,108,112,116,121,126,132,138,145,154,164,178
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,45-64,England,hospital_inc,116.344,71,80,86,92,96,101,105,109,113,118,122,127,132,138,145,153,162,172,187
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,45-64,England,hospital_inc,121.899,75,84,90,96,101,105,110,115,119,123,128,134,139,145,152,160,170,182,198
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,45-64,England,hospital_inc,128.212,78,87,94,100,105,110,115,120,125,130,135,140,146,153,161,169,179,191,207
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,45-64,England,hospital_inc,134.535,82,91,99,105,110,116,121,126,131,136,142,148,154,161,169,178,189,203,219
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,45-64,England,hospital_inc,141.325,85,95,103,109,115,121,126,132,137,143,149,155,162,169,178,187,199,213,230
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,45-64,England,hospital_inc,148.566,89,99,107,114,121,127,133,139,144,150,156,162,169,177,186,197,210,224,242
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,45-64,England,hospital_inc,155.953,92,103,112,120,126,132,139,145,151,157,164,170,178,186,196,207,220,236,255
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,45-64,England,hospital_inc,163.885,96,108,116,124,132,139,146,153,159,165,172,178,186,195,205,217,231,247,266
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,45-64,England,hospital_inc,172.273,100,112,122,130,138,146,153,159,166,173,180,188,196,205,215,228,243,259,280
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,45-64,England,hospital_inc,180.733,105,117,127,135,144,151,159,166,174,181,189,197,205,215,226,239,255,272,294
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,45-64,England,hospital_inc,189.544,109,121,132,141,150,158,166,174,182,190,198,206,215,225,237,251,268,286,308
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,45-64,England,hospital_inc,198.879,113,126,137,147,156,166,175,183,191,199,207,216,225,236,248,263,280,300,322
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,45-64,England,hospital_inc,208.444,118,132,143,153,163,173,182,191,199,207,217,226,236,247,260,276,294,313,337
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,65-74,England,hospital_inc,28.323,16,18,20,21,22,24,25,26,27,28,29,30,31,32,34,36,37,40,44
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,65-74,England,hospital_inc,29.4403,17,19,21,22,23,25,26,27,28,29,30,31,32,34,35,37,39,42,46
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,65-74,England,hospital_inc,30.6728,17,20,22,23,25,26,27,28,29,30,32,33,34,35,37,39,41,44,48
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,65-74,England,hospital_inc,31.9645,19,21,23,25,26,27,28,29,31,32,33,34,36,37,39,40,43,46,50
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,65-74,England,hospital_inc,33.2506,20,22,24,26,27,29,30,31,32,33,35,36,37,39,40,42,45,48,52
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,65-74,England,hospital_inc,34.7654,21,23,25,27,28,30,31,32,34,35,36,38,39,41,42,44,47,50,55
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,65-74,England,hospital_inc,36.4916,22,24,27,28,30,31,33,34,35,37,38,39,41,43,44,46,49,52,57
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,65-74,England,hospital_inc,38.3007,23,26,28,30,31,33,34,36,37,38,40,41,43,44,46,49,51,55,60
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,65-74,England,hospital_inc,40.2095,24,27,29,31,33,34,36,37,39,40,42,43,45,46,48,51,53,57,63
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,65-74,England,hospital_inc,42.0541,25,29,31,33,34,36,38,39,41,42,44,45,47,49,51,54,56,60,66
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,65-74,England,hospital_inc,44.2613,27,30,33,35,36,38,40,41,43,44,46,48,49,51,53,56,59,63,69
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,65-74,England,hospital_inc,46.5734,28,32,34,36,38,40,41,43,45,46,48,50,52,54,56,59,62,66,73
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,65-74,England,hospital_inc,49.032,30,33,36,38,40,42,44,45,47,49,50,52,54,56,59,62,65,70,77
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,65-74,England,hospital_inc,51.6265,32,35,38,40,42,44,46,48,49,51,53,55,57,59,62,64,68,73,81
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,65-74,England,hospital_inc,54.3672,33,37,40,42,44,46,48,50,52,53,55,57,60,62,65,68,72,77,85
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,65-74,England,hospital_inc,57.2671,35,39,42,44,46,48,50,52,54,56,58,60,63,65,68,71,76,81,90
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,65-74,England,hospital_inc,60.213,37,41,44,46,49,51,53,55,57,59,61,63,66,68,72,75,79,85,94
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,65-74,England,hospital_inc,63.1941,39,43,46,49,51,53,55,57,60,62,64,66,69,72,75,79,84,90,99
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,65-74,England,hospital_inc,66.4217,41,45,49,51,54,56,58,60,62,65,67,69,72,75,79,83,88,95,105
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,65-74,England,hospital_inc,69.7748,43,48,51,54,56,59,61,63,66,68,71,73,76,79,83,87,93,100,111
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,65-74,England,hospital_inc,73.3638,46,50,54,57,59,62,64,66,69,71,74,77,80,83,87,91,98,105,117
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,65-74,England,hospital_inc,77.1391,48,53,56,59,62,65,67,70,72,75,78,81,84,87,92,97,103,112,123
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,65-74,England,hospital_inc,80.9806,50,56,59,62,65,68,70,73,75,78,81,84,87,91,96,101,108,116,129
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,65-74,England,hospital_inc,84.9751,53,58,62,65,68,71,74,77,79,82,85,89,92,96,100,106,113,123,136
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,65-74,England,hospital_inc,89.1179,55,61,65,68,71,74,77,80,83,86,89,93,96,100,106,111,119,129,144
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,65-74,England,hospital_inc,93.67,58,64,68,71,75,78,81,84,87,90,94,97,101,106,111,117,126,136,151
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,65-74,England,hospital_inc,98.1667,61,67,71,75,78,82,85,88,91,94,98,102,106,111,116,123,131,143,159
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,65-74,England,hospital_inc,102.707,64,70,75,78,82,85,89,92,95,99,103,107,111,116,122,129,138,150,167
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,65-74,England,hospital_inc,107.427,68,74,78,82,86,89,93,97,100,104,108,112,117,122,128,135,146,159,176
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,65-74,England,hospital_inc,112.506,71,77,82,86,90,94,97,101,105,108,113,117,122,128,134,142,153,166,185
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,65-74,England,hospital_inc,117.665,74,81,86,90,94,98,102,106,109,113,118,123,128,133,140,149,160,175,194
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,75+,England,hospital_inc,39.6506,23,26,28,30,32,34,35,37,38,40,41,43,45,47,49,51,54,58,64
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,75+,England,hospital_inc,41.4195,24,27,30,32,34,35,37,39,40,42,43,45,47,49,51,53,56,60,66
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,75+,England,hospital_inc,43.3182,25,28,31,33,35,37,39,40,42,44,45,47,49,51,53,56,59,63,69
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,75+,England,hospital_inc,45.3693,26,30,33,35,37,39,41,42,44,45,47,49,51,53,55,58,61,66,72
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,75+,England,hospital_inc,47.2743,27,31,34,36,38,40,42,44,46,47,49,51,53,55,58,61,64,68,75
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,75+,England,hospital_inc,49.5545,29,33,36,38,40,42,44,46,48,49,51,53,55,58,60,63,67,72,79
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,75+,England,hospital_inc,51.8029,30,34,37,40,42,44,46,48,50,52,54,56,58,60,63,66,70,75,82
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,75+,England,hospital_inc,53.8356,32,36,39,42,44,46,48,50,52,54,56,58,61,63,66,69,73,78,86
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,75+,England,hospital_inc,56.2313,34,38,41,44,46,48,50,53,55,57,59,61,64,66,69,72,76,82,91
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,75+,England,hospital_inc,58.6453,35,40,43,46,49,51,53,55,57,60,62,64,66,69,72,75,80,85,94
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,75+,England,hospital_inc,60.9731,37,42,45,48,51,53,55,58,60,62,64,67,69,72,75,79,83,89,99
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,75+,England,hospital_inc,63.586,39,44,48,51,53,56,58,61,63,65,68,70,73,76,79,83,87,94,104
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,75+,England,hospital_inc,66.2648,41,46,50,53,56,58,61,63,66,68,71,73,76,79,83,86,91,98,108
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,75+,England,hospital_inc,69.2432,44,49,53,56,59,62,64,67,69,72,74,77,80,83,87,91,96,103,115
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,75+,England,hospital_inc,72.6079,45,51,55,59,62,65,67,70,73,75,78,81,84,87,91,95,101,108,119
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,75+,England,hospital_inc,76.1418,48,54,58,62,65,68,71,73,76,79,82,85,88,91,95,100,105,113,126
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,75+,England,hospital_inc,79.7296,50,56,61,64,68,71,74,77,80,83,86,89,92,96,100,105,111,118,132
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,75+,England,hospital_inc,83.7068,53,59,64,68,71,75,77,80,83,86,90,93,97,100,105,110,115,124,139
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,75+,England,hospital_inc,87.9938,56,62,67,71,75,78,81,84,88,91,94,98,101,106,110,115,121,131,147
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,75+,England,hospital_inc,92.5035,59,66,70,75,78,82,85,88,92,95,99,103,106,111,115,121,127,137,155
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,75+,England,hospital_inc,97.2247,62,69,74,78,82,86,90,93,97,100,104,108,112,116,121,127,134,144,163
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,75+,England,hospital_inc,102.212,66,73,78,82,86,90,94,97,101,105,109,113,117,122,127,133,140,151,171
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,75+,England,hospital_inc,107.398,69,77,82,86,91,94,98,102,106,110,114,118,123,128,133,139,147,159,181
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,75+,England,hospital_inc,112.832,73,80,86,90,95,99,103,107,111,115,119,124,129,134,139,146,155,167,190
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,75+,England,hospital_inc,118.564,76,84,90,95,99,104,108,112,116,121,125,130,134,140,146,153,162,175,201
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,75+,England,hospital_inc,124.506,80,88,94,99,104,108,113,117,122,126,131,136,141,147,154,161,170,184,211
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,75+,England,hospital_inc,130.716,84,93,99,104,109,114,119,123,128,133,138,143,149,155,161,169,178,192,223
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,75+,England,hospital_inc,137.395,88,97,104,109,114,119,124,129,134,139,144,150,155,162,169,176,187,203,236
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,75+,England,hospital_inc,144.169,93,102,109,114,120,125,130,135,140,146,151,157,163,170,177,186,197,213,247
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,75+,England,hospital_inc,151.227,98,107,114,120,126,131,136,142,147,153,158,164,171,177,185,194,205,223,260
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,75+,England,hospital_inc,158.575,103,112,120,126,131,137,143,148,154,160,166,172,179,186,194,204,216,234,273
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,All,England,hospital_inc,3.53323,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,All,England,hospital_inc,3.7052,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,All,England,hospital_inc,3.88737,1,1,2,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,All,England,hospital_inc,4.07998,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,All,England,hospital_inc,4.2845,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,All,England,hospital_inc,4.481,1,1,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,All,England,hospital_inc,4.6939,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,All,England,hospital_inc,4.91495,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,All,England,hospital_inc,5.13794,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,All,England,hospital_inc,5.38031,1,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,All,England,hospital_inc,5.64775,1,2,3,3,3,4,4,5,5,5,6,6,7,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,All,England,hospital_inc,5.93638,1,2,3,3,4,4,4,5,5,6,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,All,England,hospital_inc,6.22387,2,2,3,3,4,4,5,5,5,6,6,7,7,8,8,9,10,11,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,All,England,hospital_inc,6.51953,2,3,3,4,4,4,5,5,6,6,7,7,7,8,9,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,All,England,hospital_inc,6.82987,2,3,3,4,4,5,5,6,6,6,7,7,8,8,9,10,11,12,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,All,England,hospital_inc,7.17613,2,3,4,4,5,5,5,6,6,7,7,8,8,9,9,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,All,England,hospital_inc,7.54481,2,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,All,England,hospital_inc,7.89829,2,3,4,5,5,6,6,7,7,7,8,9,9,10,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,All,England,hospital_inc,8.29278,2,3,4,5,5,6,6,7,7,8,8,9,10,10,11,12,13,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,All,England,hospital_inc,8.71534,3,4,4,5,6,6,7,7,8,8,9,9,10,11,11,12,13,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,All,England,hospital_inc,9.16755,3,4,5,5,6,7,7,8,8,9,9,10,11,11,12,13,14,15,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,All,England,hospital_inc,9.65762,3,4,5,6,6,7,7,8,9,9,10,10,11,12,13,13,15,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,All,England,hospital_inc,10.1544,3,4,5,6,7,7,8,8,9,10,10,11,12,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,All,England,hospital_inc,10.6997,3,5,6,6,7,8,8,9,10,10,11,11,12,13,14,15,16,18,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,All,England,hospital_inc,11.2713,4,5,6,7,7,8,9,9,10,11,11,12,13,14,14,16,17,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,All,England,hospital_inc,11.8678,4,5,6,7,8,8,9,10,10,11,12,13,13,14,15,16,18,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,All,England,hospital_inc,12.4874,4,5,6,7,8,9,10,10,11,12,12,13,14,15,16,17,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,All,England,hospital_inc,13.1432,4,6,7,8,8,9,10,11,12,12,13,14,15,16,17,18,19,21,24
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,All,England,hospital_inc,13.8149,4,6,7,8,9,10,10,11,12,13,14,14,15,16,17,19,20,22,25
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,All,England,hospital_inc,14.5258,5,6,7,8,9,10,11,12,13,13,14,15,16,17,18,19,21,23,26
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,All,England,hospital_inc,15.2612,5,7,8,9,10,11,11,12,13,14,15,16,17,18,19,20,22,24,27
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,0-4,London,hospital_inc,0.578077,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,0-4,London,hospital_inc,0.591167,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,0-4,London,hospital_inc,0.605018,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,0-4,London,hospital_inc,0.618167,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,0-4,London,hospital_inc,0.631602,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,0-4,London,hospital_inc,0.646636,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,0-4,London,hospital_inc,0.661307,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,0-4,London,hospital_inc,0.67565,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,0-4,London,hospital_inc,0.690737,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,0-4,London,hospital_inc,0.70655,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,0-4,London,hospital_inc,0.721867,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,0-4,London,hospital_inc,0.73833,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,0-4,London,hospital_inc,0.754703,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,0-4,London,hospital_inc,0.7724,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,0-4,London,hospital_inc,0.790517,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,0-4,London,hospital_inc,0.808617,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,0-4,London,hospital_inc,0.827076,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,0-4,London,hospital_inc,0.845894,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,0-4,London,hospital_inc,0.865703,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,0-4,London,hospital_inc,0.885435,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,0-4,London,hospital_inc,0.90565,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,0-4,London,hospital_inc,0.924898,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,0-4,London,hospital_inc,0.946005,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,0-4,London,hospital_inc,0.967017,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,0-4,London,hospital_inc,0.988126,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,0-4,London,hospital_inc,1.00972,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,0-4,London,hospital_inc,1.03168,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,0-4,London,hospital_inc,1.05415,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,0-4,London,hospital_inc,1.07717,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,0-4,London,hospital_inc,1.0999,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,0-4,London,hospital_inc,1.12439,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,3,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,15-24,London,hospital_inc,0.422131,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,15-24,London,hospital_inc,0.432195,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,15-24,London,hospital_inc,0.442267,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,15-24,London,hospital_inc,0.45274,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,15-24,London,hospital_inc,0.463157,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,15-24,London,hospital_inc,0.474076,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,15-24,London,hospital_inc,0.485112,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,15-24,London,hospital_inc,0.4968,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,15-24,London,hospital_inc,0.508171,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,15-24,London,hospital_inc,0.520103,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,15-24,London,hospital_inc,0.53237,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,15-24,London,hospital_inc,0.544603,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,15-24,London,hospital_inc,0.557853,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,15-24,London,hospital_inc,0.570971,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,15-24,London,hospital_inc,0.584232,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,15-24,London,hospital_inc,0.597207,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,15-24,London,hospital_inc,0.610897,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,15-24,London,hospital_inc,0.6241,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,15-24,London,hospital_inc,0.637897,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,15-24,London,hospital_inc,0.652038,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,15-24,London,hospital_inc,0.666327,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,15-24,London,hospital_inc,0.680082,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,15-24,London,hospital_inc,0.694885,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,15-24,London,hospital_inc,0.709614,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,15-24,London,hospital_inc,0.724255,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,15-24,London,hospital_inc,0.739652,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,15-24,London,hospital_inc,0.755302,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,15-24,London,hospital_inc,0.770693,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,15-24,London,hospital_inc,0.78676,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,15-24,London,hospital_inc,0.803403,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,15-24,London,hospital_inc,0.820219,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,3
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,25-44,London,hospital_inc,3.14187,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,25-44,London,hospital_inc,3.21437,0,1,1,2,2,2,2,3,3,3,3,4,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,25-44,London,hospital_inc,3.29214,0,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,25-44,London,hospital_inc,3.36548,0,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,25-44,London,hospital_inc,3.44674,1,1,1,2,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,25-44,London,hospital_inc,3.5255,1,1,1,2,2,2,3,3,3,3,4,4,4,4,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,25-44,London,hospital_inc,3.60598,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,25-44,London,hospital_inc,3.6882,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,25-44,London,hospital_inc,3.77488,1,1,2,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,25-44,London,hospital_inc,3.8623,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,25-44,London,hospital_inc,3.94982,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,25-44,London,hospital_inc,4.04238,1,1,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,25-44,London,hospital_inc,4.12955,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,25-44,London,hospital_inc,4.22208,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,25-44,London,hospital_inc,4.31674,1,1,2,2,3,3,3,3,4,4,4,5,5,6,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,25-44,London,hospital_inc,4.41512,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,25-44,London,hospital_inc,4.50843,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,25-44,London,hospital_inc,4.60895,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,25-44,London,hospital_inc,4.71463,1,2,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,25-44,London,hospital_inc,4.81602,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,25-44,London,hospital_inc,4.92513,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,25-44,London,hospital_inc,5.0346,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,25-44,London,hospital_inc,5.13947,1,2,2,3,3,3,4,4,5,5,5,6,6,6,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,25-44,London,hospital_inc,5.25535,1,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,25-44,London,hospital_inc,5.37269,1,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,25-44,London,hospital_inc,5.49038,1,2,3,3,3,4,4,5,5,5,6,6,6,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,25-44,London,hospital_inc,5.60334,1,2,3,3,4,4,4,5,5,5,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,25-44,London,hospital_inc,5.72163,1,2,3,3,4,4,4,5,5,5,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,25-44,London,hospital_inc,5.83863,1,2,3,3,4,4,4,5,5,6,6,6,7,7,8,9,9,11,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,25-44,London,hospital_inc,5.96129,2,2,3,3,4,4,5,5,5,6,6,7,7,8,8,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,25-44,London,hospital_inc,6.09151,2,2,3,3,4,4,5,5,5,6,6,7,7,8,8,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,45-64,London,hospital_inc,6.2732,2,3,3,4,4,4,5,5,6,6,6,7,7,8,8,9,10,11,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,45-64,London,hospital_inc,6.41842,2,3,3,4,4,5,5,5,6,6,7,7,7,8,9,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,45-64,London,hospital_inc,6.56634,2,3,3,4,4,5,5,6,6,6,7,7,8,8,9,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,45-64,London,hospital_inc,6.71849,2,3,3,4,4,5,5,6,6,6,7,7,8,8,9,10,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,45-64,London,hospital_inc,6.86559,2,3,4,4,5,5,5,6,6,7,7,8,8,9,9,10,11,12,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,45-64,London,hospital_inc,7.02608,2,3,4,4,5,5,6,6,6,7,7,8,8,9,9,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,45-64,London,hospital_inc,7.18397,2,3,4,4,5,5,6,6,7,7,7,8,8,9,10,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,45-64,London,hospital_inc,7.35507,2,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,45-64,London,hospital_inc,7.52057,3,3,4,5,5,6,6,6,7,7,8,8,9,9,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,45-64,London,hospital_inc,7.69789,3,3,4,5,5,6,6,7,7,7,8,8,9,10,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,45-64,London,hospital_inc,7.87385,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,45-64,London,hospital_inc,8.0561,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,11,12,14,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,45-64,London,hospital_inc,8.24415,3,4,4,5,6,6,7,7,8,8,8,9,10,10,11,12,13,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,45-64,London,hospital_inc,8.4371,3,4,5,5,6,6,7,7,8,8,9,9,10,10,11,12,13,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,45-64,London,hospital_inc,8.63294,3,4,5,5,6,6,7,7,8,8,9,9,10,11,11,12,13,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,45-64,London,hospital_inc,8.82485,3,4,5,5,6,7,7,8,8,9,9,10,10,11,12,13,14,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,45-64,London,hospital_inc,9.02701,3,4,5,6,6,7,7,8,8,9,9,10,11,11,12,13,14,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,45-64,London,hospital_inc,9.24101,3,4,5,6,6,7,7,8,8,9,10,10,11,11,12,13,14,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,45-64,London,hospital_inc,9.44715,3,4,5,6,6,7,8,8,9,9,10,10,11,12,12,13,14,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,45-64,London,hospital_inc,9.65696,4,5,5,6,7,7,8,8,9,9,10,11,11,12,13,14,15,16,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,45-64,London,hospital_inc,9.87059,4,5,5,6,7,7,8,8,9,10,10,11,11,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,45-64,London,hospital_inc,10.0835,4,5,6,6,7,8,8,9,9,10,10,11,12,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,45-64,London,hospital_inc,10.3025,4,5,6,6,7,8,8,9,9,10,11,11,12,13,14,15,16,17,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,45-64,London,hospital_inc,10.5371,4,5,6,7,7,8,9,9,10,10,11,12,12,13,14,15,16,18,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,45-64,London,hospital_inc,10.7741,4,5,6,7,7,8,9,9,10,11,11,12,13,13,14,15,17,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,45-64,London,hospital_inc,11.0108,4,5,6,7,8,8,9,10,10,11,11,12,13,14,15,16,17,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,45-64,London,hospital_inc,11.2469,4,5,6,7,8,8,9,10,10,11,12,12,13,14,15,16,17,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,45-64,London,hospital_inc,11.4943,4,6,7,7,8,9,9,10,11,11,12,13,13,14,15,16,18,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,45-64,London,hospital_inc,11.7504,4,6,7,7,8,9,9,10,11,12,12,13,14,15,16,17,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,45-64,London,hospital_inc,11.9992,5,6,7,8,8,9,10,10,11,12,12,13,14,15,16,17,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,45-64,London,hospital_inc,12.246,5,6,7,8,9,9,10,11,11,12,13,14,14,15,16,17,19,21,24
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,65-74,London,hospital_inc,2.50485,0,1,1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,65-74,London,hospital_inc,2.56181,0,1,1,1,1,2,2,2,2,2,3,3,3,3,4,4,5,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,65-74,London,hospital_inc,2.62071,0,1,1,1,1,2,2,2,2,2,3,3,3,3,4,4,5,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,65-74,London,hospital_inc,2.6803,0,1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,65-74,London,hospital_inc,2.73984,0,1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,65-74,London,hospital_inc,2.80187,0,1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,65-74,London,hospital_inc,2.86947,0,1,1,1,2,2,2,2,2,3,3,3,3,4,4,4,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,65-74,London,hospital_inc,2.93262,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,65-74,London,hospital_inc,3.00108,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,65-74,London,hospital_inc,3.07287,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,65-74,London,hospital_inc,3.14529,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,65-74,London,hospital_inc,3.21904,0,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,65-74,London,hospital_inc,3.29568,0,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,65-74,London,hospital_inc,3.37645,0,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,65-74,London,hospital_inc,3.4553,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,65-74,London,hospital_inc,3.53779,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,65-74,London,hospital_inc,3.62209,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,65-74,London,hospital_inc,3.70187,1,1,1,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,65-74,London,hospital_inc,3.77991,1,1,2,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,65-74,London,hospital_inc,3.87084,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,7,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,65-74,London,hospital_inc,3.95769,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,65-74,London,hospital_inc,4.04382,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,65-74,London,hospital_inc,4.13421,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,65-74,London,hospital_inc,4.23239,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,65-74,London,hospital_inc,4.32717,1,1,2,2,3,3,3,3,4,4,4,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,65-74,London,hospital_inc,4.42314,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,65-74,London,hospital_inc,4.51948,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,65-74,London,hospital_inc,4.61946,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,65-74,London,hospital_inc,4.72289,1,2,2,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,65-74,London,hospital_inc,4.82652,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,65-74,London,hospital_inc,4.93564,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,75+,London,hospital_inc,2.88654,0,1,1,1,2,2,2,2,2,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,75+,London,hospital_inc,2.95243,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,75+,London,hospital_inc,3.02001,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,75+,London,hospital_inc,3.08928,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,75+,London,hospital_inc,3.15978,0,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,5,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,75+,London,hospital_inc,3.23356,0,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,75+,London,hospital_inc,3.29954,0,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,75+,London,hospital_inc,3.37653,0,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,75+,London,hospital_inc,3.45249,1,1,1,2,2,2,2,3,3,3,4,4,4,5,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,75+,London,hospital_inc,3.53285,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,75+,London,hospital_inc,3.61321,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,75+,London,hospital_inc,3.69536,1,1,1,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,75+,London,hospital_inc,3.77687,1,1,2,2,2,2,3,3,3,4,4,4,5,5,5,6,7,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,75+,London,hospital_inc,3.85991,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,75+,London,hospital_inc,3.94564,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,75+,London,hospital_inc,4.03705,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,75+,London,hospital_inc,4.12958,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,75+,London,hospital_inc,4.22333,1,1,2,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,75+,London,hospital_inc,4.31332,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,75+,London,hospital_inc,4.40582,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,8,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,75+,London,hospital_inc,4.50786,1,2,2,2,3,3,3,4,4,4,5,5,6,6,6,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,75+,London,hospital_inc,4.60948,1,2,2,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,75+,London,hospital_inc,4.71117,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,75+,London,hospital_inc,4.8166,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,75+,London,hospital_inc,4.92312,1,2,2,3,3,3,4,4,4,5,5,6,6,7,7,8,8,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,75+,London,hospital_inc,5.03678,1,2,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,75+,London,hospital_inc,5.14951,1,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,75+,London,hospital_inc,5.26319,1,2,2,3,3,4,4,4,5,5,6,6,6,7,7,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,75+,London,hospital_inc,5.37917,1,2,2,3,3,4,4,4,5,5,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,75+,London,hospital_inc,5.50357,1,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,9,11,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,75+,London,hospital_inc,5.6266,1,2,3,3,3,4,4,5,5,5,6,6,7,7,8,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,1,10,2020,All,London,hospital_inc,3.53323,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,6,6,7
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,2,10,2020,All,London,hospital_inc,3.7052,1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,3,10,2020,All,London,hospital_inc,3.88737,1,1,2,2,2,2,3,3,3,4,4,4,4,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,4,10,2020,All,London,hospital_inc,4.07998,1,1,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,5,10,2020,All,London,hospital_inc,4.2845,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,6,10,2020,All,London,hospital_inc,4.481,1,1,2,2,3,3,3,3,4,4,4,5,5,5,6,6,7,8,9
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,7,10,2020,All,London,hospital_inc,4.6939,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,8,10,2020,All,London,hospital_inc,4.91495,1,2,2,3,3,3,4,4,4,5,5,5,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,9,10,2020,All,London,hospital_inc,5.13794,1,2,2,3,3,3,4,4,4,5,5,6,6,6,7,7,8,9,10
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,10,10,2020,All,London,hospital_inc,5.38031,1,2,2,3,3,4,4,4,5,5,5,6,6,7,7,8,8,9,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,11,10,2020,All,London,hospital_inc,5.64775,1,2,3,3,3,4,4,5,5,5,6,6,7,7,7,8,9,10,11
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,12,10,2020,All,London,hospital_inc,5.93638,1,2,3,3,4,4,4,5,5,6,6,6,7,7,8,8,9,10,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,13,10,2020,All,London,hospital_inc,6.22387,2,2,3,3,4,4,5,5,5,6,6,7,7,8,8,9,10,11,12
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,14,10,2020,All,London,hospital_inc,6.51953,2,3,3,4,4,4,5,5,6,6,7,7,7,8,9,9,10,11,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,15,10,2020,All,London,hospital_inc,6.82987,2,3,3,4,4,5,5,6,6,6,7,7,8,8,9,10,11,12,13
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,16,10,2020,All,London,hospital_inc,7.17613,2,3,4,4,5,5,5,6,6,7,7,8,8,9,9,10,11,12,14
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,17,10,2020,All,London,hospital_inc,7.54481,2,3,4,4,5,5,6,6,7,7,8,8,9,9,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,18,10,2020,All,London,hospital_inc,7.89829,2,3,4,5,5,6,6,7,7,7,8,9,9,10,10,11,12,13,15
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,19,10,2020,All,London,hospital_inc,8.29278,2,3,4,5,5,6,6,7,7,8,8,9,10,10,11,12,13,14,16
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,20,10,2020,All,London,hospital_inc,8.71534,3,4,4,5,6,6,7,7,8,8,9,9,10,11,11,12,13,15,17
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,21,10,2020,All,London,hospital_inc,9.16755,3,4,5,5,6,7,7,8,8,9,9,10,11,11,12,13,14,15,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,22,10,2020,All,London,hospital_inc,9.65762,3,4,5,6,6,7,7,8,9,9,10,10,11,12,13,13,15,16,18
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,23,10,2020,All,London,hospital_inc,10.1544,3,4,5,6,7,7,8,8,9,10,10,11,12,12,13,14,15,17,19
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,24,10,2020,All,London,hospital_inc,10.6997,3,5,6,6,7,8,8,9,10,10,11,11,12,13,14,15,16,18,20
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,25,10,2020,All,London,hospital_inc,11.2713,4,5,6,7,7,8,9,9,10,11,11,12,13,14,14,16,17,18,21
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,26,10,2020,All,London,hospital_inc,11.8678,4,5,6,7,8,8,9,10,10,11,12,13,13,14,15,16,18,19,22
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,27,10,2020,All,London,hospital_inc,12.4874,4,5,6,7,8,9,10,10,11,12,12,13,14,15,16,17,18,20,23
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,28,10,2020,All,London,hospital_inc,13.1432,4,6,7,8,8,9,10,11,12,12,13,14,15,16,17,18,19,21,24
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,29,10,2020,All,London,hospital_inc,13.8149,4,6,7,8,9,10,10,11,12,13,14,14,15,16,17,19,20,22,25
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,30,10,2020,All,London,hospital_inc,14.5258,5,6,7,8,9,10,11,12,13,13,14,15,16,17,18,19,21,23,26
+Warwick,FullMCMCODE_w_Cases,MTP,Multiple,8.1,1,9,2020,31,10,2020,All,London,hospital_inc,15.2612,5,7,8,9,10,11,11,12,13,14,15,16,17,18,19,20,22,24,27
