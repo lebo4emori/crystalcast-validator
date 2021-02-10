@@ -41,8 +41,7 @@ pipeline {
   post {
         always {
             sendNotifications currentBuild.result
-            archiveArtifacts artifacts: 'riskaware-crystalcast-validator-*.tgz', fingerprint: true
-            junit 'build/reports/**/*.xml'
+            archiveArtifacts artifacts: 'riskaware-crystalcast-validator-*.tgz'
         }
         success {
             sendEmail("Successful");
