@@ -40,7 +40,6 @@ pipeline {
 
   post {
         always {
-            sendNotifications currentBuild.result
             archiveArtifacts artifacts: 'riskaware-crystalcast-validator-*.tgz'
         }
         success {
