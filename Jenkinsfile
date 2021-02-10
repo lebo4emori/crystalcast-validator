@@ -7,7 +7,7 @@ pipeline {
   }
 
   triggers {
-    pollSCM('') // Enabling being build on Push
+    pollSCM('/2 * * * ') // Enabling being build on Push
   }
 
   tools {
