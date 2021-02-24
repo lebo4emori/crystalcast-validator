@@ -183,20 +183,6 @@ class Validator {
       return validationMessage;
     }
 
-    // get the supported models for this group
-    let group = dataPage[0]['Group'];
-    let groupIndex = templateValues['Group'].indexOf(group);
-    let models = templateValues['Model']
-      ? templateValues['Model'][groupIndex]
-      : null;
-
-    let supportedModels = [];
-    if (models) {
-      // split to get all models in the case multiple are defined
-      supportedModels = models.split(',');
-      supportedModels = supportedModels.map(modelName => modelName.trim());
-    }
-
     if (modelFields.includes('AgeBand')) {
       var ageBandErrors = isAllAgeBandPresent(dataPage, modelFields);
       // Check the mandatory 'All' ageBand is present for all metrics
@@ -207,6 +193,20 @@ class Validator {
     for (let i in dataPage) {
       let row = dataPage[i];
       let rowDates = [];
+
+      // Get the supported models for the group
+      let group = row['Group'];
+      let groupIndex = templateValues['Group'].indexOf(group);
+      let models = templateValues['Model']
+        ? templateValues['Model'][groupIndex]
+        : null;
+
+      let supportedModels = [];
+      if (models) {
+        // split to get all models in the case multiple are defined
+        supportedModels = models.split(',');
+        supportedModels = supportedModels.map(modelName => modelName.trim());
+      }
 
       // TODO: This check is specifically for prevalence data but could be done in a more generic way in future
       // Check that if the row is prevalence data then the prevalence value is a percentage

@@ -261,6 +261,13 @@ describe('FileValidatorTests', () => {
   // test('test-valid-model-case-33', async () => {
   //   await genericTest(33, '.xlsx', 'invalid');
   // });
+
+  /**
+   * Tests validating a xlsx that has more than one group in it
+   */
+  test('test-valid-model-case-34', async () => {
+    await genericTest(34, '.xlsx', 'valid');
+  });
 });
 
 afterAll(async function (done) {
