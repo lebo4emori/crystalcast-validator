@@ -244,9 +244,9 @@ describe('FileValidatorTests', () => {
   /**
    * Tests validating an xlsx file that might have been converted from an xls file
    */
-  // test('test-valid-model-case-31', async () => {
-  //   await genericTest(31, '.xlsx', 'invalid');
-  // });
+  test('test-valid-model-case-31', async () => {
+    await genericTest(31, '.xlsx', 'invalid');
+  });
 
   /**
    * Tests validating a xlsx file that is too large for emailing and therefore gets zipped
@@ -255,12 +255,20 @@ describe('FileValidatorTests', () => {
     await genericTest(32, '.xlsx', 'valid');
   });
 
+  // TODO: Chat this through with Sow when he's back from leave
   /**
    * Tests validating a xlsx that has too many row values
-   */
+  //  */
   // test('test-valid-model-case-33', async () => {
   //   await genericTest(33, '.xlsx', 'invalid');
   // });
+
+  /**
+   * Tests validating a xlsx that has more than one group in it
+   */
+  test('test-valid-model-case-34', async () => {
+    await genericTest(34, '.xlsx', 'valid');
+  });
 });
 
 afterAll(async function (done) {

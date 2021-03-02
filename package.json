@@ -1,6 +1,6 @@
 {
     "name": "@riskaware/crystalcast-validator",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": "Watches provider folders for models and performs basic validation against a template. Results are emailed to prospective providers and the working group.",
     "main": "index.js",
     "scripts": {

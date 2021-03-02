@@ -183,30 +183,38 @@ class Validator {
       return validationMessage;
     }
 
-    // get the supported models for this group
-    let group = dataPage[0]['Group'];
-    let groupIndex = templateValues['Group'].indexOf(group);
-    let models = templateValues['Model']
-      ? templateValues['Model'][groupIndex]
-      : null;
-
-    let supportedModels = [];
-    if (models) {
-      // split to get all models in the case multiple are defined
-      supportedModels = models.split(',');
-      supportedModels = supportedModels.map(modelName => modelName.trim());
-    }
-
     if (modelFields.includes('AgeBand')) {
       var ageBandErrors = isAllAgeBandPresent(dataPage, modelFields);
       // Check the mandatory 'All' ageBand is present for all metrics
       incompleteDataErrors.push.apply(incompleteDataErrors, ageBandErrors);
     }
 
+    // Create a map to store the supported models for each group
+    let supportedModelsByGroup = new Map();
+
     // Check that the model's fields are valid
     for (let i in dataPage) {
       let row = dataPage[i];
       let rowDates = [];
+
+      let group = row['Group'];
+
+      // If the map doesn't already contain this group then create a new entry for it
+      if (!supportedModelsByGroup.has(group)) {
+        let groupIndex = templateValues['Group'].indexOf(group);
+        let models = templateValues['Model']
+          ? templateValues['Model'][groupIndex]
+          : null;
+
+        let supportedModels = [];
+        if (models) {
+          // split to get all models in the case multiple are defined
+          supportedModels = models.split(',');
+          supportedModels = supportedModels.map(modelName => modelName.trim());
+        }
+
+        supportedModelsByGroup.set(group, supportedModels);
+      }
 
       // TODO: This check is specifically for prevalence data but could be done in a more generic way in future
       // Check that if the row is prevalence data then the prevalence value is a percentage
@@ -277,8 +285,11 @@ class Validator {
           value = value.replace('"', '').trim();
         }
 
-        if (key === 'Model' && supportedModels.length > 0) {
-          if (!supportedModels.includes(value)) {
+        // Get the supported models for this group
+        let supportedModelsForGroup = supportedModelsByGroup.get(group);
+
+        if (key === 'Model' && supportedModelsForGroup.length > 0) {
+          if (!supportedModelsForGroup.includes(value)) {
             let valueError = {};
             valueError.row = Number(i) + 1;
             valueError.fieldValue = value;
