@@ -1,4 +1,4 @@
-const FileParser = require('../common/file-parser.js');
+const ValidatorUtils = require('../common/validator-utils.js');
 const moment = require('moment');
 
 /**
@@ -345,7 +345,7 @@ class Validator {
       for (let d in rowDates) {
         let date = rowDates[d];
         let dateString = date['Year'] + '-' + date['Month'] + '-' + date['Day'];
-        let validDate = FileParser.isValidDate(dateString);
+        let validDate = ValidatorUtils.isValidDate(dateString);
 
         if (!validDate) {
           let dateError = {};
@@ -630,7 +630,7 @@ function filterDatesFromRow(accumulator, row, index) {
     padZero('' + row['Month of Value']) +
     '-' +
     padZero('' + row['Day of Value']);
-  if (FileParser.isValidDate(dateString)) {
+  if (ValidatorUtils.isValidDate(dateString)) {
     let date = moment(dateString);
     let creationDateString =
       row['Creation Year'] +
@@ -747,13 +747,5 @@ function checkDatesSequential(id, dates) {
   }
   return undefined;
 }
-
-/**
- * Check if the date is valid
- * @param {Object} date 
-
-function isValidDate(date) {
-    return date instanceof Date && !isNaN(date)
-} */
 
 module.exports = Validator;
