@@ -257,8 +257,8 @@ describe('FileValidatorTests', () => {
 
   // TODO: Chat this through with Sow when he's back from leave
   /**
-   * Tests validating a xlsx that has too many row values
-  //  */
+     * Tests validating a xlsx that has too many row values
+    //  */
   // test('test-valid-model-case-33', async () => {
   //   await genericTest(33, '.xlsx', 'invalid');
   // });
@@ -268,6 +268,20 @@ describe('FileValidatorTests', () => {
    */
   test('test-valid-model-case-34', async () => {
     await genericTest(34, '.xlsx', 'valid');
+  });
+
+  /**
+   * Tests validating a csv that has invalid 'Timeseries' Scenario for a MTP ValueType
+   */
+  test('test-valid-model-case-35', async () => {
+    await genericTest(35, '.csv', 'invalid');
+  });
+
+  /**
+   * Tests validating a csv that has valid 'Timeseries' and 'Nowcast' Scenario
+   */
+  test('test-valid-model-case-36', async () => {
+    await genericTest(36, '.csv', 'valid');
   });
 });
 

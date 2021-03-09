@@ -249,6 +249,7 @@ class Validator {
       if (
         nowcastValueTypes.includes(row['ValueType']) &&
         row['Scenario'] !== 'Nowcast' &&
+        row['Scenario'] !== 'Timeseries' &&
         row['Scenario'] !== 'ONS' &&
         row['Scenario'] !== 'REACT'
       ) {
@@ -258,14 +259,14 @@ class Validator {
         valueError.fieldValue = row['Scenario'];
         valueError.field = 'Scenario';
         valueError.extraInfo =
-          " because the scenario has not been set correctly.  All Nowcast ValueTypes should have their scenario set to 'Nowcast'.";
+          " because the scenario has not been set correctly.  All Nowcast/Timeseries ValueTypes should have their scenario set to 'Nowcast' or 'Timeseries' as required.";
         incorrectFieldValues.push(valueError);
       }
 
       // Ensure that non-nowcast value types do not have their scenario set to 'Nowcast'
       if (
         !nowcastValueTypes.includes(row['ValueType']) &&
-        row['Scenario'] === 'Nowcast'
+        (row['Scenario'] === 'Nowcast' || row['Scenario'] === 'Timeseries')
       ) {
         // Create an error indicating that the data has been mislabelled
         let valueError = {};
@@ -273,7 +274,7 @@ class Validator {
         valueError.fieldValue = row['Scenario'];
         valueError.field = 'Scenario';
         valueError.extraInfo =
-          " because the scenario has been mislabelled as 'Nowcast'.";
+          " because the scenario has been mislabelled as 'Nowcast' or 'Timeseries'.";
         incorrectFieldValues.push(valueError);
       }
 
