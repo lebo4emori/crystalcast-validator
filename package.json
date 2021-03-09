@@ -13,7 +13,7 @@
     },
     "files": [
         "validator/validator.js",
-        "common/file-parser.js"
+        "common/validator-utils.js"
     ],
     "keywords": [],
     "author": "",

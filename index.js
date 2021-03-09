@@ -1,6 +1,6 @@
-const Validator = require('./validator/validator.js')
+const Validator = require('./validator/validator.js');
 
-export { Validator }
+export { Validator };
 
-exports.Validator = Validator
-exports.Validator.validate = Validator.validate
+exports.Validator = Validator;
+exports.Validator.validate = Validator.validate;
