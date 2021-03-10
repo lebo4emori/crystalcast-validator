@@ -111,7 +111,7 @@ class Validator {
    * @param {Json} dataPage The model data sheet
    * @param {Object} templateFields The template Fields sheet
    * @param {Object} templateValues The Template sheet
-   * @param {Object} optionalFields List of optional fields for validtion
+   * @param {Object} optionalFields List of optional fields for validation
    */
   static _validateModel(
     dataPage,
