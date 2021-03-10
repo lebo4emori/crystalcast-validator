@@ -1,0 +1,4 @@
+Group,Model,ModelType,Version,Scenario,Creation Day,Creation Month,Creation Year,Day of Value,Month of Value,Year of Value,Geography,AgeBand,ValueType,Value,Quantile 0.05,Quantile 0.25,Quantile 0.5,Quantile 0.75,Quantile 0.95
+Combined,Combined,Multiple,0.1,Nowcast,12,1,2021,23,2,2021,United Kingdom,All,R,1.232238712,0.646916172,0.958078465,1.232238712,1.502110792,1.85847205
+Imperial,Stochastic Compartmental Positivity,Multiple,0.1,Nowcast,11,1,2021,12,1,2021,East of England,All,R,139,91,117,139,167,199
+Manchester/Oxford/Lancaster,DetSEIRwithNBmle,Multiple,0.1,Timeseries,11,1,2021,12,1,2021,East of England,All,R,578,502,546,578,610,659
