@@ -255,7 +255,6 @@ describe('FileValidatorTests', () => {
     await genericTest(32, '.xlsx', 'valid');
   });
 
-  // TODO: Chat this through with Sow when he's back from leave
   /**
    * Tests validating a xlsx that has too many row values
   //  */

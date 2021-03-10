@@ -1,4 +1,4 @@
-const FileParser = require('../common/file-parser.js');
+const ValidatorUtils = require('../common/validator-utils.js');
 const moment = require('moment');
 
 /**
@@ -7,22 +7,37 @@ const moment = require('moment');
 class Validator {
   /**
    * Validate a model using a given template
-   * @param {Json} model
-   * @param {Json} template
-   * @param {Object} optionalFields
+   * @param {Json} modelData The data sheet from the model to be validated
+   * @param {Json} templateSheet The template data sheet
+   * @param {Json} templateFieldsSheet The template example sheet
+   * @param {Object} optionalFields Optional validation fields
    * @return {Promise} validation results or error message
    */
-  static async validate(model, template, optionalFields) {
+  static async validate(
+    modelData,
+    templateSheet,
+    templateFieldsSheet,
+    optionalFields
+  ) {
     // Always return a Promise
     return new Promise((resolve, reject) => {
-      let templateFields = Validator._getHeader(template['Template_2']);
-      let templateValues = Validator._getFields(template['Fields_1']);
+      let templateFields = Validator._getHeader(templateSheet);
+      if (templateFields.length === 0) {
+        reject('Invalid template - no headers found in Template sheet');
+      }
+      let templateValues = Validator._getFields(templateFieldsSheet);
+      if (Object.keys(templateValues).length === 0) {
+        reject('Invalid template - no fields found in Fields sheet');
+      }
       let validationMessage = Validator._validateModel(
-        model,
+        modelData,
         templateFields,
         templateValues,
         optionalFields
       );
+      if (validationMessage === undefined) {
+        reject('Failed to validate model data');
+      }
       resolve(validationMessage);
     });
   }
@@ -93,12 +108,17 @@ class Validator {
 
   /**
    * Validate model
-   * @param {Json} model
-   * @param {Object} templateFields
-   * @param {Object} templateValues
-   * @param {Object} optionalFields
+   * @param {Json} dataPage The model data sheet
+   * @param {Object} templateFields The template Fields sheet
+   * @param {Object} templateValues The Template sheet
+   * @param {Object} optionalFields List of optional fields for validation
    */
-  static _validateModel(model, templateFields, templateValues, optionalFields) {
+  static _validateModel(
+    dataPage,
+    templateFields,
+    templateValues,
+    optionalFields
+  ) {
     const EMPTY_COLUMN = 'EMPTY';
 
     let validationMessage = {};
@@ -112,22 +132,6 @@ class Validator {
 
     validationMessage['hasErrors'] = false;
     errors.noData = false;
-
-    let indexOfLastSheet = 1;
-    if (Object.keys(model).length === 2) {
-      indexOfLastSheet = 2;
-    }
-    // Get the data from the last page
-    let lastSheet = Object.keys(model).filter(m =>
-      m.toString().includes(indexOfLastSheet)
-    );
-    let dataPage = model[lastSheet];
-    // Combined files something include a 'Weight' sheets as the second sheet
-    // if this is the case ignore it and use the first sheet instead
-    if (lastSheet[0] === 'Weights_2') {
-      dataPage =
-        model[Object.keys(model).filter(m => m.toString().includes(1))];
-    }
 
     if (Object.keys(dataPage).length === 0) {
       errors.noData = true;
@@ -345,7 +349,7 @@ class Validator {
       for (let d in rowDates) {
         let date = rowDates[d];
         let dateString = date['Year'] + '-' + date['Month'] + '-' + date['Day'];
-        let validDate = FileParser.isValidDate(dateString);
+        let validDate = ValidatorUtils.isValidDate(dateString);
 
         if (!validDate) {
           let dateError = {};
@@ -630,7 +634,7 @@ function filterDatesFromRow(accumulator, row, index) {
     padZero('' + row['Month of Value']) +
     '-' +
     padZero('' + row['Day of Value']);
-  if (FileParser.isValidDate(dateString)) {
+  if (ValidatorUtils.isValidDate(dateString)) {
     let date = moment(dateString);
     let creationDateString =
       row['Creation Year'] +
@@ -747,13 +751,5 @@ function checkDatesSequential(id, dates) {
   }
   return undefined;
 }
-
-/**
- * Check if the date is valid
- * @param {Object} date 
-
-function isValidDate(date) {
-    return date instanceof Date && !isNaN(date)
-} */
 
 module.exports = Validator;

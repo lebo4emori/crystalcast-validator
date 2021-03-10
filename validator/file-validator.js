@@ -210,11 +210,29 @@ async function processModel(
       logger.error('file parsing: ' + err);
     });
 
+    // Pull out the required data sheet
+    let indexOfLastSheet = 1;
+    if (Object.keys(model).length === 2) {
+      indexOfLastSheet = 2;
+    }
+    // Get the data from the last page
+    let lastSheet = Object.keys(model).filter(m =>
+      m.toString().includes(indexOfLastSheet)
+    );
+    let dataPage = model[lastSheet];
+    // Combined files something include a 'Weight' sheets as the second sheet
+    // if this is the case ignore it and use the first sheet instead
+    if (lastSheet[0] === 'Weights_2') {
+      dataPage =
+        model[Object.keys(model).filter(m => m.toString().includes(1))];
+    }
+
     // Validate the model
     logger.info('validating file....');
     validationMessage = await Validator.validate(
-      model,
-      template,
+      dataPage,
+      template['Template_2'],
+      template['Fields_1'],
       optionalFields
     ).catch(err => {
       logger.error('Validating: ' + err);

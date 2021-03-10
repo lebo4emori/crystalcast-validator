@@ -2,7 +2,6 @@ const mv = require('mv');
 const cp = require('cp');
 const fs = require('fs');
 const rimraf = require('rimraf');
-const moment = require('moment');
 const csv = require('csv-parser');
 const XlsxStreamReader = require('xlsx-stream-reader');
 
@@ -259,26 +258,6 @@ class FileParser {
     });
   }
 
-  /**
-   * Validate a date string.
-   * @param {string} dateString
-   */
-  static isValidDate(dateString) {
-    try {
-      // check string format first!
-      let regexMatch = dateString.match(
-        /[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/g
-      ); // 0000-00-00 ISO date format
-      let isValid = false;
-
-      if (regexMatch && regexMatch.length === 1) {
-        isValid = moment(dateString).isValid();
-      }
-      return isValid ? true : false;
-    } catch (err) {
-      return false;
-    }
-  }
 }
 
 module.exports = FileParser;
