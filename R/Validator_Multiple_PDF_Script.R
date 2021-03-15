@@ -59,7 +59,7 @@ metrics_of_interest_time<-c("type28_death_inc_line", "hospital_inc", "infections
 
 # # # Commented working directory (for in-house testing)
 # WORKING_DIR <- "K:/Project_Technical/Standard/PJ100026/Technical data/covid/Forecasting"
-# OUTPUT_FILENAME <- "SPIMestimates-2021-01-12-7Day.xlsx"
+# OUTPUT_FILENAME <- "Warwick_without_Cases_NowCast_13_03_21.csv"
 
 #######################
 # Functions
@@ -614,8 +614,8 @@ for (model_level in model_levels){
   #Create a summary table before any further data manipulation goes on
   #******************#
   #******************#
-  data_nowcast_mtp<-data[data$Scenario %in% c("Nowcast","ONS", "MTP") ,]
-  data_other_scenarios<-data[data$Scenario %in% c("Nowcast", "ONS", "MTP") == FALSE,]
+  data_nowcast_mtp<-data[data$Scenario %in% c("Nowcast","Timeseries", "ONS", "MTP") ,]
+  data_other_scenarios<-data[data$Scenario %in% c("Nowcast", "Timeseries", "ONS", "MTP") == FALSE,]
   other_scenarios_list<-unique(as.vector(data_other_scenarios$Scenario))
   if(sum(is.na(other_scenarios_list))>0){other_scenarios_list<-other_scenarios_list[-which(is.na(other_scenarios_list))]}
   
@@ -635,6 +635,7 @@ for (model_level in model_levels){
            "Midlands",
            "North East and Yorkshire",
            "North West",
+           "South East",
            "South West",
            "West Midlands",
            "East Midlands",
