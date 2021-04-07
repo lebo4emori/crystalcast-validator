@@ -59,7 +59,7 @@ metrics_of_interest_time<-c("type28_death_inc_line", "hospital_inc", "infections
 
 # # # Commented working directory (for in-house testing)
 # WORKING_DIR <- "K:/Project_Technical/Standard/PJ100026/Technical data/covid/Forecasting"
-# OUTPUT_FILENAME <- "Warwick_without_Cases_NowCast_13_03_21.csv"
+# OUTPUT_FILENAME <- "Warwick_without_Cases_TimeSeries_03_04_21.csv"
 
 #######################
 # Functions
@@ -233,7 +233,7 @@ plot2 <- function(datasets, save = TRUE, summary_table_list){
               theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
                     panel.background = element_blank(), axis.line = element_line(colour = "black"),
                     panel.spacing.x = unit(8, "mm"))+
-              scale_colour_manual(values = "black", name = "Forecast")+
+              scale_colour_manual(values = "black", name = "Projection")+
               scale_fill_manual(values = "black")+
               scale_shape_manual(values = c(16,7), labels = c("data","data (expected to increase)"), name = "Cases")+
               labs(title = title_short, x = "Date", y = y_axes_title, subtitle = group)+
@@ -269,7 +269,7 @@ plot2 <- function(datasets, save = TRUE, summary_table_list){
               theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
                     panel.background = element_blank(), axis.line = element_line(colour = "black"),
                     panel.spacing.x = unit(8, "mm"))+
-              scale_colour_manual(values = "black", name = "Forecast")+
+              scale_colour_manual(values = "black", name = "Projection")+
               scale_fill_manual(values = "black")+
               scale_shape_manual(values = c(16,7), labels = c("data","data (expected to increase)"), name = "Cases")+
               labs(title = title_short, x = "Date", y = y_axes_title, subtitle = group)+
@@ -306,7 +306,7 @@ plot2 <- function(datasets, save = TRUE, summary_table_list){
               theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
                     panel.background = element_blank(), axis.line = element_line(colour = "black"),
                     panel.spacing.x = unit(8, "mm"), strip.text.x = element_text(size = 10))+
-              scale_colour_manual(values = "black", name = "Forecast")+
+              scale_colour_manual(values = "black", name = "Projection")+
               scale_fill_manual(values = "black")+
               scale_shape_manual(values = c(16,7), labels = c("data","data (expected to increase)"), name = "Cases")+
               labs(title = title_short, x = "Date", y = y_axes_title, subtitle = group)+
@@ -345,7 +345,7 @@ plot2 <- function(datasets, save = TRUE, summary_table_list){
             theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
                   panel.background = element_blank(), axis.line = element_line(colour = "black"),
                   panel.spacing.x = unit(8, "mm"), strip.text.x = element_text(size = 10))+
-            scale_colour_manual(values = "black", name = "Forecast")+
+            scale_colour_manual(values = "black", name = "Projection")+
             scale_fill_manual(values = "black")+
             scale_shape_manual(values = c(16,7), labels = c("data","data (expected to increase)"), name = "Cases")+
             labs(title = title_short, x = "Date", y = y_axes_title, subtitle = group)+
