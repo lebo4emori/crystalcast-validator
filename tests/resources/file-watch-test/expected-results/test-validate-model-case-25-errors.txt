@@ -1,5 +1,0 @@
-Validation complete. There are 11 missing fields, 25 unrecognised fields and 2 empty column(s) present. Please ensure that these field errors are corrected so that the data in this file can be validated.
-Missing fields: Creation Day, Creation Month, Creation Year, Day of Value, Month of Value, Year of Value, Quantile 0.05, Quantile 0.25, Quantile 0.5, Quantile 0.75, Quantile 0.95.
-Unrecognised fields: Creation.Day, Creation.Month, Creation.Year, Day.of.Value, Month.of.Value, Year.of.Value, Quantile.0.05, Quantile.0.1, Quantile.0.15, Quantile.0.2, Quantile.0.25, Quantile.0.3, Quantile.0.35, Quantile.0.4, Quantile.0.45, Quantile.0.5, Quantile.0.55, Quantile.0.6, Quantile.0.65, Quantile.0.7, Quantile.0.75, Quantile.0.8, Quantile.0.85, Quantile.0.9, Quantile.0.95.
-Column 1 appears to be empty.
-Column 4 appears to be empty.

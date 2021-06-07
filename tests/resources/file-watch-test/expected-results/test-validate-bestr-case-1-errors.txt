@@ -1,2 +1,0 @@
-Validation complete. There are 0 missing fields, 0 unrecognised fields, 0 invalid date errors, 0 non-squential or duplicate date errors, 1 incorrect field values and 0 incorrect quantile errors.
-Missing value on row 3 for field "Generation Process"

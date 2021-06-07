@@ -1,3 +1,0 @@
-Validation complete. There are 0 missing fields, 0 unrecognised fields, 0 invalid date errors, 0 non-squential or duplicate date errors, 0 incorrect field values and 2 incorrect quantile errors.
-Quantile value(s) [ 0.5] are incorrect on row 2 values are not in ascending order from the lowest to highest quantile.
-Quantile value(s) [ 0.75] are incorrect on row 12 values are not in ascending order from the lowest to highest quantile.

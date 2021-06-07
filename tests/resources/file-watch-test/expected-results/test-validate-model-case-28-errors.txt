@@ -1,1 +1,0 @@
-Validation skipped for this file. The validator does not support this file type. Please upload only .xlsx or .csv files.

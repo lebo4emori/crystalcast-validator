@@ -1,0 +1,33 @@
+FROM ubi7/nodejs-12
+
+ARG env="test"
+USER root
+# adding in the application source
+RUN groupadd --gid 10010 crystalcast && \
+    useradd --create-home --home-dir /home/crystalcast --shell /bin/sh --uid 10010 --gid 10010 crystalcast
+
+WORKDIR ${HOME}/crystalcast-validator 
+
+COPY . ${WORKDIR}
+
+RUN yum -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm && \ 
+    yum-config-manager --enable "rhel-*-optional-rpms" && \
+    yum-config-manager --enable updates  && \
+    yum-config-manager --enable base && \
+    yum install -y libcurl-devel openssl-devel libxml2-devel pcre2-devel tk-devel tcl-devel cups bzip2-devel libpcre2-8.so.0 xdg-utils && \ 
+    #yum -y groupinstall ‘Development Tools’  && \
+    #yum --enablerepo=ubi-7-server-optional-repo install -y R && \ 
+    #yum -y install R-3.4.1-1.el7.x86_64.rpm R-core-3.4.1-1.el7.x86_64.rpm R-core-devel-3.4.1-1.el7.x86_64.rpm \
+    #R-devel-3.4.1-1.el7.x86_64.rpm R-java-3.4.1-1.el7.x86_64.rpm R-java-devel-3.4.1-1.el7.x86_64.rpm \
+    #tre-0.8.0-18.20140228gitc2f5d13.el7.x86_64.rpm tre-common-0.8.0-18.20140228gitc2f5d13.el7.noarch.rpm \
+    #tre-devel-0.8.0-18.20140228gitc2f5d13.el7.x86_64.rpm zvbi-fonts-0.2.35-1.el7.noarch.rpm openblas-Rblas-0.2.20-3.el7.x86_64.rpm \
+    #libRmath-3.4.1-1.el7.x86_64.rpm libRmath-devel-3.4.1-1.el7.x86_64.rpm 
+    #npm install && \
+    #eval $(./set-email-cred) && \
+    #Rscript ./R/requirements.R && \
+    rm -f set-email-cred
+
+# add dependencies and export email creds
+ENTRYPOINT ["npm", "run"]
+
+CMD ["$env"]

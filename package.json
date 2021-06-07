@@ -19,24 +19,24 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "archiver": "^5.0.2",
+        "chokidar": "^3.4.3",
         "config": "^3.3.1",
-        "next": "^9.3.2",
-        "nodemailer": "6.4.6",
+        "cp": "0.2.0",
+        "csv-parser": "^3.0.0",
         "log4js": "^6.1.2",
         "mv": "^2.1.1",
-        "cp": "0.2.0",
-        "archiver": "^5.0.2",
-        "wait-on": "^5.2.0",
+        "next": "^10.2.2",
+        "nodemailer": "^6.6.0",
         "rimraf": "^3.0.2",
-        "chokidar": "^3.4.3",
-        "csv-parser": "^3.0.0",
+        "wait-on": "^5.2.0",
         "xlsx-stream-reader": "^1.1.1"
     },
     "devDependencies": {
         "@babel/core": "^7.9.0",
         "babel-eslint": "^10.1.0",
         "babel-jest": "^25.2.4",
-        "babel-plugin-inline-react-svg": "^1.1.1",
+        "babel-plugin-inline-react-svg": "^2.0.1",
         "babel-plugin-root-import": "^6.5.0",
         "cross-env": "^7.0.0",
         "eslint": "^6.8.0",
@@ -80,10 +80,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/riskaware-ltd/crystalcast-validator.git"
+        "url": "git+https://gitlab.phe.gov.uk/ERD/Modelling/Outbreaks/ncov-2020/crystalcast-validator.git"
     },
     "bugs": {
-        "url": "https://github.com/riskaware-ltd/crystalcast-validator/issues"
+        "url": "https://gitlab.phe.gov.uk/ERD/Modelling/Outbreaks/ncov-2020/crystalcast-validator/issues"
     },
-    "homepage": "https://github.com/riskaware-ltd/crystalcast-validator#readme"
+    "homepage": "https://gitlab.phe.gov.uk/ERD/Modelling/Outbreaks/ncov-2020/crystalcast-validator#README.md"
 }

@@ -1,5 +1,0 @@
-Validation complete. There are 0 missing fields, 0 unrecognised fields, 0 invalid date errors, 4 non-squential or duplicate date errors, 0 incorrect field values and 0 incorrect quantile errors.
-Data for metric death_inc_line|East of England|FullMCMCODE_w_Cases|8.1|2020-9-1|MTP is missing AgeBand "All". AgeBand "All" represents the total of all the age bands and is mandatory.
-Data for metric hospital_inc|East of England|FullMCMCODE_w_Cases|8.1|2020-9-1|MTP is missing AgeBand "All". AgeBand "All" represents the total of all the age bands and is mandatory.
-Data for metric infections_cum|East of England|FullMCMCODE_w_Cases|8.1|2020-9-1|MTP is missing AgeBand "All". AgeBand "All" represents the total of all the age bands and is mandatory.
-Data for metric infections_inc|East of England|FullMCMCODE_w_Cases|8.1|2020-9-1|MTP is missing AgeBand "All". AgeBand "All" represents the total of all the age bands and is mandatory.

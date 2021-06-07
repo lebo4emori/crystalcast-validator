@@ -7,7 +7,7 @@ jest.setTimeout(3.6e6)
 describe('EmailTests', () => {
     test('email-test-1', async () => {
         await emailTest([{
-            recipients: ['thomas.dennis@riskaware.co.uk'],
+            recipients: ['lebo.emori@phe.gov.uk'],
             providerName: 'test',
             bodyText: 'This is a test email (test #1)',
             attachmentFiles: [],
@@ -17,7 +17,7 @@ describe('EmailTests', () => {
 
     test('email-test-2', async () => {
         let N = 10, info = [], item = {
-            recipients: ['thomas.dennis@riskaware.co.uk'],
+            recipients: ['lebo.emori@phe.gov.uk'],
             providerName: 'test',
             bodyText: 'This is a test email (test #2)',
             attachmentFiles: [],
@@ -30,7 +30,7 @@ describe('EmailTests', () => {
 
     test('email-test-3', async () => {
         await emailTest([{
-            recipients: ['thomas.dennis@riskaware.co.uk'],
+            recipients: ['lebo.emori@phe.gov.uk'],
             providerName: undefined,
             bodyText: 'This is a test email (test #3)',
             attachmentFiles: ['tests/resources/email-test/nonsense_data.xlsx'],

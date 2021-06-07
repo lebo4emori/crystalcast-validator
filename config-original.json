@@ -1,0 +1,188 @@
+{
+	"fileWatch": {
+		"homeDirs": [
+			"C:/Users/crystalcast/OneDrive/CrystalCast",
+			"C:/Users/crystalcast/OneDrive - Riskaware/CrystalCast"
+		],
+		"triggerFolder": "validate",
+		"templateFolder": "template",
+		"rTempFolder": "TempFolder",
+		"rForecastFolder": "Forecast Data",
+		"rCaseDataFolder": "Case Data",
+		"rCalculatePlots": "calculate-plots.bat"
+	},
+	"providers": [
+		{
+			"name": "Warwick",
+			"emails": [
+				"mattjkeeling@gmail.com",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "PHE",
+			"emails": [
+				"paul.birrell@phe.gov.uk",
+				"joshua.blake@mrc-bsu.cam.ac.uk",
+				"Jonathan.Carruthers@phe.gov.uk",
+				"daniela.deangelis@mrc-bsu.cam.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "Imperial",
+			"emails": [
+				"neil.ferguson@imperial.ac.uk",
+				"m.baguelin@imperial.ac.uk",
+				"a.gandy@imperial.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "LSHTM",
+			"emails": [
+				"sebastian.funk@lshtm.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "LSHTM-Business",
+			"emails": [
+				"Nicholas.Davies@lshtm.ac.uk",
+				"Christopher.Jarvis@lshtm.ac.uk",
+				"Amy.gimma@lshtm.ac.uk",
+				"sam.abbott@lshtm.ac.uk",
+				"Rosanna.Barnard@lshtm.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "Manchester",
+			"emails": [
+				"lorenzo.pellis@manchester.ac.uk",
+				"thomas.house@manchester.ac.uk",
+				"christopher.overton@manchester.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "Exeter",
+			"emails": [
+				"L.Danon@exeter.ac.uk",
+				"rc538@exeter.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "Lancaster",
+			"emails": [
+				"jonathan.read@lancaster.ac.uk",
+				"c.jewell@lancaster.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "GSK",
+			"emails": [
+				"daren.j.austin@gsk.com",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "NHSX-NHSEI",
+			"emails": [
+				"kimberley.moore@faculty.ai",
+				"jonathanpearson@nhs.net",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "DA",
+			"emails": [
+				"Barry.Miller@gov.scot",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "DSTL",
+			"emails": [
+				"helen.adams@riskaware.co.uk",
+				"tmaishman@dstl.gov.uk",
+				"udalrymple@dstl.gov.uk",
+				"dssilk@mail.dstl.gov.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "ONS",
+			"emails": [
+				"palvi.shah@ons.gov.uk",
+				"saarah.nakhuda@ons.gov.uk",
+				"Leah.Kelly@ons.gov.uk",
+				"Lauren.O'Connell@ons.gov.uk",
+				"Lauren.Revie@ons.gov.uk",
+				"Numaan.Iqbal@ext.ons.gov.uk",
+				"Lisa.Whitaker@ons.gov.uk",
+				"Owen.Gethings@ons.gov.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "JBC",
+			"emails": [
+				"Josie.Park@dhsc.gov.uk",
+				"Anna.Seale@dhsc.gov.uk",
+				"Fergus.Cumming@dhsc.gov.uk",
+				"Chris.Winder@dhsc.gov.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		},
+		{
+			"name": "Roslin",
+			"emails": [
+				"c.banks@ed.ac.uk",
+				"rowland.kao@ed.ac.uk",
+				"crystalcast@riskaware.co.uk"
+			]
+		}
+	],
+	"workingGroup": [
+		"WNCoV.modelling@phe.gov.uk",
+		"SPI-M@dhsc.gov.uk",
+		"Thomas.Finnie@phe.gov.uk",
+		"sebastian.funk@lshtm.ac.uk",
+		"vbowman@dstl.gov.uk",
+		"dssilk@mail.dstl.gov.uk",
+		"tmaishman@dstl.gov.uk",
+		"sschaap@dstl.gov.uk",
+		"scabbs@dstl.gov.uk",
+		"udalrymple@dstl.gov.uk",
+		"Hannah.Williams@phe.gov.uk",
+		"Rabia.A.Khan@phe.gov.uk",
+		"sacha.darwin@riskaware.co.uk",
+		"helen.adams@riskaware.co.uk",
+		"thomas.dennis@riskaware.co.uk"
+	],
+	"optionalFields": [
+		"DataType",
+		"AgeBand",
+		"Value",
+		"Quantile 0.1",
+		"Quantile 0.15",
+		"Quantile 0.2",
+		"Quantile 0.3",
+		"Quantile 0.35",
+		"Quantile 0.4",
+		"Quantile 0.45",
+		"Quantile 0.55",
+		"Quantile 0.6",
+		"Quantile 0.65",
+		"Quantile 0.7",
+		"Quantile 0.8",
+		"Quantile 0.85",
+		"Quantile 0.9"
+	],
+	"maxFileAttachmentSize": 25,
+	"fileCopyTimeoutInMins": 3.33,
+	"pollIntervalInMS": 2000
+}

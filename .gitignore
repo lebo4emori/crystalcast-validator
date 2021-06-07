@@ -2,7 +2,7 @@
 /.next
 /Case Data
 /target
-set-email-credentials.bat
+set-email-cred
 /reports
 /.classpath
 /.eslintignore

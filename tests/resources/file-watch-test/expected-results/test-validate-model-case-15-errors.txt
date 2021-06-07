@@ -1,5 +1,0 @@
-Validation complete. There are 0 missing fields, 0 unrecognised fields, 0 invalid date errors, 4 non-squential or duplicate date errors, 0 incorrect field values and 0 incorrect quantile errors.
-Date 2020-04-30 on row 27 is not sequential with all or some dates on rows 26,28 for data type icu_prev|East of England|All|Rt estimation|1|2020-4-12|MTP. Values that have the same ValueType, AgeBand, Model, Version, Creation date and Geography should be in date order.
-Entry for date 2020-05-03 is duplicated on rows 176,175. Please remove one of the duplicate entries.
-Date 2020-05-03 on row 175 is not sequential with all or some dates on rows 174,176 for data type infections_cum|East of England|All|Rt estimation|1|2020-4-12|MTP. Values that have the same ValueType, AgeBand, Model, Version, Creation date and Geography should be in date order.
-Date 2020-04-30 on row 202 is not sequential with all or some dates on rows 201,203 for data type icu_prev|London|All|Rt estimation|1|2020-4-12|MTP. Values that have the same ValueType, AgeBand, Model, Version, Creation date and Geography should be in date order.

@@ -1,3 +1,0 @@
-Validation complete. There are 0 missing fields, 0 unrecognised fields, 2 invalid date errors, 0 non-squential or duplicate date errors, 0 incorrect field values and 0 incorrect quantile errors.
-Invalid date: 32/04/2020 on row 58.
-Invalid date: 32/03/2020 on row 109.

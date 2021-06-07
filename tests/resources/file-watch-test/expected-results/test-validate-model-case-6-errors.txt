@@ -1,3 +1,0 @@
-Validation complete. There are 1 missing fields, 1 unrecognised fields and 0 empty column(s) present. Please ensure that these field errors are corrected so that the data in this file can be validated.
-Missing fields: Geography.
-Unrecognised fields: Unrecognised_field.

@@ -1,0 +1,46 @@
+{
+    "fileWatch": {
+        "homeDirs": [
+            "/validator/files/",
+            "C:\validator\files"
+        ],
+        "triggerFolder": "validate",
+        "templateFolder": "template",
+        "rTempFolder": "TempFolder",
+        "rForecastFolder": "Forecast Data",
+        "rCaseDataFolder": "Case Data"
+    },
+    "providers": [
+        {
+            "name": "test-provider",
+            "emails": [
+                "lebo.emori@phe.gov.uk"
+            ]
+        }
+    ],
+    "workingGroup": [
+        "lebo.emori@phe.gov.uk"
+    ],
+    "optionalFields": [
+        "DataType",
+        "AgeBand",
+        "Value",
+        "Quantile 0.1",
+        "Quantile 0.15",
+        "Quantile 0.2",
+        "Quantile 0.3",
+        "Quantile 0.35",
+        "Quantile 0.4",
+        "Quantile 0.45",
+        "Quantile 0.55",
+        "Quantile 0.6",
+        "Quantile 0.65",
+        "Quantile 0.7",
+        "Quantile 0.8",
+        "Quantile 0.85",
+        "Quantile 0.9"
+    ],
+    "maxFileAttachmentSizeInMb": 25,
+    "fileCopyTimeoutInMins": 3.33,
+    "pollIntervalInMS": 2000
+}
